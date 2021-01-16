@@ -1,94 +1,130 @@
 {
-	"author":"ds5678",
-	"authorURL":"https://github.com/ds5678",
-	"mods":[
-		{
-			"name":"Better-Stacking", 
-			"author":"<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>"", 
-			"authorURL":"-",
-			"version":"4.0",
-			"updated":"2021-01-13",
-			"description":"Makes more items stackable in the inventory.",
-			"modURL":"https://github.com/ds5678/Better-Stacking",
-			"downloadURL":"https://github.com/ds5678/Better-Stacking/releases/download/4.0/Better-Stacking.dll",
-			"testedon":{
-				"tldversion":"1.92",
-				"mlversion":"0.2.3"
-			},
-			"dependencies":[],
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":""
-			}
-		},{
-			"name":"BlanketMod", 
-			"version":"1.1",
-			"updated":"2021-01-13", 
-			"description":"Add a warm blanket to the game.", 
-			"modURL":"https://github.com/ds5678/BlanketMod", 
-			"downloadURL":"https://github.com/ds5678/BlanketMod/releases/download/1.1/BlanketMod.dll",
-			"testedon":{
-				"tldversion":"1.92",
-				"mlversion":"0.2.3"
-			},
-			"dependencies":["ModSettings"], 
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":""
-			}
-		},{
-			"name":"CanneryManufacturing", 
-			"version":"1.1", //Current version of the mod
-			"updated":"2021-01-11", //ISO date YYYY-MM-DD
-			"description":"Makes Bleak Inlet more useful, especially on Interloper.",
-			"modURL":"https://github.com/ds5678/CanneryManufacturing",
-			"downloadURL":"https://github.com/ds5678/CanneryManufacturing/releases/download/1.1/CanneryManufacturing.dll",
-			"testedon":{
-				"tldversion":"1.92",
-				"mlversion":"0.2.3"
-			},
-			"dependencies":["ModSettings"], 
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":""
-			}
-		},{
-			"name":"ForgeBlueprintsMod", 
-			"version":"1.1", 
-			"updated":"2021-01-13", 
-			"description":"Adds some blueprints for the forge.", 
-			"modURL":"https://github.com/ds5678/ForgeBlueprintsMod", 
-			"downloadURL":"https://github.com/ds5678/ForgeBlueprintsMod/releases/download/1.1/ForgeBlueprintsMod.dll", 
-			"testedon":{
-				"tldversion":"1.92",
-				"mlversion":"0.2.3"
-			},
-			"dependencies":["ModSettings"], 
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":"Conflicts with ArrowMod"
-			}
-		},{
-			"name":"FurClothingMod",
-			"version":"1.0", 
-			"updated":"2021-01-11", 
-			"description":"Lets you change fur clothing stats.", 
-			"modURL":"https://github.com/ds5678/FurClothingMod", 
-			"downloadURL":"https://github.com/ds5678/FurClothingMod/releases/download/1.0/FurClothingMod.dll",
-			"testedon":{
-				"tldversion":"1.92",
-				"mlversion":"0.2.3"
-			},
-			"dependencies":["ModSettings"], 
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":""
-			}
+	"author": "ds5678",
+	"authorURL": "https://github.com/ds5678",
+	"mods": [{
+		"name": "AssetLoader",
+		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
+		"authorURL": "",
+		"version": "4.0.2",
+		"updated": "2021-01-15",
+		"description": "Infrastructure library for The Long Dark, allowing to integrate external assets. Used as a dependency for other mods.",
+		"modURL": "https://github.com/ds5678/AssetLoader",
+		"downloadURL": "https://github.com/ds5678/AssetLoader/releases/download/4.0.2/AssetLoader.dll",
+		"testedon": {
+			"tldversion": "1.92",
+			"mlversion": "0.2.3"
 		},
-	]
+		"dependencies": [],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	}, {
+		"name": "Better-Stacking",
+		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
+		"authorURL": "",
+		"version": "4.0",
+		"updated": "2021-01-13",
+		"description": "Makes more items stackable in the inventory.",
+		"modURL": "https://github.com/ds5678/Better-Stacking",
+		"downloadURL": "https://github.com/ds5678/Better-Stacking/releases/download/4.0/Better-Stacking.dll",
+		"testedon": {
+			"tldversion": "1.92",
+			"mlversion": "0.2.3"
+		},
+		"dependencies": [],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	}, {
+		"name": "BlanketMod",
+		"version": "1.1",
+		"updated": "2021-01-13",
+		"description": "Add a warm blanket to the game.",
+		"modURL": "https://github.com/ds5678/BlanketMod",
+		"downloadURL": "https://github.com/ds5678/BlanketMod/releases/download/1.1/BlanketMod.dll",
+		"testedon": {
+			"tldversion": "1.92",
+			"mlversion": "0.2.3"
+		},
+		"dependencies": ["ModSettings"],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	}, {
+		"name": "CanneryManufacturing",
+		"version": "1.1",
+		"updated": "2021-01-11",
+		"description": "Makes Bleak Inlet more useful, especially on Interloper.",
+		"modURL": "https://github.com/ds5678/CanneryManufacturing",
+		"downloadURL": "https://github.com/ds5678/CanneryManufacturing/releases/download/1.1/CanneryManufacturing.dll",
+		"testedon": {
+			"tldversion": "1.92",
+			"mlversion": "0.2.3"
+		},
+		"dependencies": ["ModSettings"],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	}, {
+		"name": "ForgeBlueprintsMod",
+		"version": "1.1",
+		"updated": "2021-01-13",
+		"description": "Adds some blueprints for the forge.",
+		"modURL": "https://github.com/ds5678/ForgeBlueprintsMod",
+		"downloadURL": "https://github.com/ds5678/ForgeBlueprintsMod/releases/download/1.1/ForgeBlueprintsMod.dll",
+		"testedon": {
+			"tldversion": "1.92",
+			"mlversion": "0.2.3"
+		},
+		"dependencies": ["ModSettings"],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": "Conflicts with ArrowMod"
+		}
+	}, {
+		"name": "FurClothingMod",
+		"version": "1.0",
+		"updated": "2021-01-11",
+		"description": "Lets you change fur clothing stats.",
+		"modURL": "https://github.com/ds5678/FurClothingMod",
+		"downloadURL": "https://github.com/ds5678/FurClothingMod/releases/download/1.0/FurClothingMod.dll",
+		"testedon": {
+			"tldversion": "1.92",
+			"mlversion": "0.2.3"
+		},
+		"dependencies": ["ModSettings"],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	}, {
+		"name": "IncreaseSaveSlotLimit",
+		"author": "<a href='https://github.com/zeobviouslyfakeacc' target='_blank'>zeobviouslyfakeacc</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
+		"authorURL": "",
+		"version": "1.1",
+		"updated": "2021-01-14",
+		"description": "Increases the save slot limit to 999 instead of the default 25.",
+		"modURL": "https://github.com/ds5678/Better-Stacking",
+		"downloadURL": "https://github.com/ds5678/IncreaseSaveSlotLimit/releases/download/1.1/IncreaseSaveSlotLimit.dll",
+		"testedon": {
+			"tldversion": "1.92",
+			"mlversion": "0.2.3"
+		},
+		"dependencies": [],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	}]
 }
