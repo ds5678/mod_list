@@ -12,7 +12,7 @@
 		"downloadURL": "https://github.com/ds5678/AssetLoader/releases/download/4.0.2/AssetLoader.dll",
 		"testedon": {
 			"tldversion": "1.92",
-			"mlversion": "0.2.3"
+			"mlversion": "0.2.7"
 		},
 		"dependencies": [],
 		"status": {
@@ -31,7 +31,7 @@
 		"downloadURL": "https://github.com/ds5678/Better-Stacking/releases/download/4.0/Better-Stacking.dll",
 		"testedon": {
 			"tldversion": "1.92",
-			"mlversion": "0.2.3"
+			"mlversion": "0.2.7"
 		},
 		"dependencies": [],
 		"status": {
@@ -48,7 +48,7 @@
 		"downloadURL": "https://github.com/ds5678/BlanketMod/releases/download/1.1/BlanketMod.dll",
 		"testedon": {
 			"tldversion": "1.92",
-			"mlversion": "0.2.3"
+			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModSettings"],
 		"status": {
@@ -65,7 +65,7 @@
 		"downloadURL": "https://github.com/ds5678/CanneryManufacturing/releases/download/1.1/CanneryManufacturing.dll",
 		"testedon": {
 			"tldversion": "1.92",
-			"mlversion": "0.2.3"
+			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModSettings"],
 		"status": {
@@ -82,7 +82,7 @@
 		"downloadURL": "https://github.com/ds5678/ForgeBlueprintsMod/releases/download/1.1/ForgeBlueprintsMod.dll",
 		"testedon": {
 			"tldversion": "1.92",
-			"mlversion": "0.2.3"
+			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModSettings"],
 		"status": {
@@ -99,7 +99,7 @@
 		"downloadURL": "https://github.com/ds5678/FurClothingMod/releases/download/1.0/FurClothingMod.dll",
 		"testedon": {
 			"tldversion": "1.92",
-			"mlversion": "0.2.3"
+			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModSettings"],
 		"status": {
@@ -118,7 +118,7 @@
 		"downloadURL": "https://github.com/ds5678/IncreaseSaveSlotLimit/releases/download/1.1/IncreaseSaveSlotLimit.dll",
 		"testedon": {
 			"tldversion": "1.92",
-			"mlversion": "0.2.3"
+			"mlversion": "0.2.7"
 		},
 		"dependencies": [],
 		"status": {
