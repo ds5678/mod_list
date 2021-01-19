@@ -60,7 +60,7 @@
 		"name": "BlanketMod",
 		"version": "1.1",
 		"updated": "2021-01-13",
-		"description": "Add a warm blanket to the game.",
+		"description": "Add a warm blanket to the game. Also adds bedroll crafting.",
 		"modURL": "https://github.com/ds5678/BlanketMod",
 		"downloadURL": "https://github.com/ds5678/BlanketMod/releases/download/1.1/BlanketMod.dll",
 		"testedon": {
@@ -152,6 +152,25 @@
 		"downloadURL": "https://github.com/ds5678/IncreaseSaveSlotLimit/releases/download/1.1/IncreaseSaveSlotLimit.dll",
 		"testedon": {
 			"tldversion": "1.92",
+			"mlversion": "0.2.7"
+		},
+		"dependencies": [],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	}, {
+		"name": "Silent-Aurora",
+		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
+		"authorURL": "",
+		"version": "3.0.0",
+		"updated": "2021-01-19",
+		"description": "Removes the aurora music, including the radio. Does not affect the humming/crackling of electronics.",
+		"modURL": "https://github.com/ds5678/Silent-Aurora",
+		"downloadURL": "https://github.com/ds5678/Silent-Aurora/releases/download/3.0.0/Silent-Aurora.dll",
+		"testedon": {
+			"tldversion": "1.93",
 			"mlversion": "0.2.7"
 		},
 		"dependencies": [],
