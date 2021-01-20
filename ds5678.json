@@ -41,13 +41,13 @@
 		}
 	}, {
 		"name": "BeachcombingAdjustments",
-		"version": "1.0",
-		"updated": "2021-01-17",
+		"version": "1.1",
+		"updated": "2021-01-20",
 		"description": "Lets you change the loot table for beachcombing.",
 		"modURL": "https://github.com/ds5678/BeachcombingAdjustments",
-		"downloadURL": "https://github.com/ds5678/BeachcombingAdjustments/releases/download/1.0/BeachcombingAdjustments.dll",
+		"downloadURL": "https://github.com/ds5678/BeachcombingAdjustments/releases/download/1.1/BeachcombingAdjustments.dll",
 		"testedon": {
-			"tldversion": "1.92",
+			"tldversion": "1.93",
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModSettings"],
