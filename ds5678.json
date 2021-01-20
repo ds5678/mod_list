@@ -179,5 +179,22 @@
 			"issues": "",
 			"notes": ""
 		}
+	},{
+		"name": "SonicMode",
+		"version": "1.0.0",
+		"updated": "2021-01-20",
+		"description": "Lets you sprint up to 50 times faster",
+		"modURL": "https://github.com/ds5678/SonicMode",
+		"downloadURL": "https://github.com/ds5678/SonicMode/releases/download/1.0.0/SonicMode.dll",
+		"testedon": {
+			"tldversion": "1.93",
+			"mlversion": "0.2.7"
+		},
+		"dependencies": ["ModSettings"],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
 	}]
 }
