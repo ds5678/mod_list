@@ -91,6 +91,25 @@
 			"notes": ""
 		}
 	},{
+		"name": "Coordinates-Grabber",
+		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
+		"authorURL": "",
+		"version": "4.0.0",
+		"updated": "2021-01-23",
+		"description": "Utility mod. Allows you to see/copy the name, position, rotation, and scene of interactive items.",
+		"modURL": "https://github.com/ds5678/Coordinates-Grabber",
+		"downloadURL": "https://github.com/ds5678/Coordinates-Grabber/releases/download/4.0.0/Coordinates-Grabber.dll",
+		"testedon": {
+			"tldversion": "1.93",
+			"mlversion": "0.2.7"
+		},
+		"dependencies": [],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	},{
 		"name": "ExtremeSnowWalker",
 		"version": "1.0",
 		"updated": "2021-01-19",
