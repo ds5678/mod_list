@@ -5,13 +5,13 @@
 		"name": "AssetLoader",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "4.0.2",
-		"updated": "2021-01-15",
+		"version": "4.0.4",
+		"updated": "2021-01-26",
 		"description": "Infrastructure library for The Long Dark, allowing to integrate external assets. Used as a dependency for other mods.",
 		"modURL": "https://github.com/ds5678/AssetLoader",
 		"downloadURL": "https://github.com/ds5678/AssetLoader/releases/download/4.0.2/AssetLoader.dll",
 		"testedon": {
-			"tldversion": "1.92",
+			"tldversion": "1.93",
 			"mlversion": "0.2.7"
 		},
 		"dependencies": [],
