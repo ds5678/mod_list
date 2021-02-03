@@ -24,11 +24,11 @@
 		"name": "AssetLoader",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "4.0.4",
-		"updated": "2021-01-26",
+		"version": "4.0.5",
+		"updated": "2021-02-03",
 		"description": "Infrastructure library for The Long Dark, allowing to integrate external assets. Used as a dependency for other mods.",
 		"modURL": "https://github.com/ds5678/AssetLoader",
-		"downloadURL": "https://github.com/ds5678/AssetLoader/releases/download/4.0.2/AssetLoader.dll",
+		"downloadURL": "https://github.com/ds5678/AssetLoader/releases/download/4.0.5/AssetLoader.dll",
 		"testedon": {
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
@@ -75,7 +75,7 @@
 			"issues": "",
 			"notes": ""
 		}
-	},{
+	}, {
 		"name": "BlanketMod",
 		"version": "1.1",
 		"updated": "2021-01-13",
@@ -126,7 +126,26 @@
 			"issues": "",
 			"notes": ""
 		}
-	},{
+	}, {
+		"name": "Clothing-Pack",
+		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
+		"authorURL": "",
+		"version": "4.0.0",
+		"updated": "2021-02-03",
+		"description": "Introduces several clothing items including a new Beanie Cap.",
+		"modURL": "https://github.com/ds5678/Clothing-Pack",
+		"downloadURL": "https://github.com/ds5678/Clothing-Pack/releases/download/4.0.0/Clothing-Pack.zip",
+		"testedon": {
+			"tldversion": "1.93",
+			"mlversion": "0.2.7"
+		},
+		"dependencies": ["AssetLoader","ModComponent"],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	}, {
 		"name": "Coordinates-Grabber",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -145,7 +164,7 @@
 			"issues": "",
 			"notes": ""
 		}
-	},{
+	}, {
 		"name": "ExtremeSnowWalker",
 		"version": "1.0",
 		"updated": "2021-01-19",
@@ -178,6 +197,25 @@
 			"working": true,
 			"issues": "",
 			"notes": "Conflicts with ArrowMod"
+		}
+	}, {
+		"name": "Food-Pack",
+		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
+		"authorURL": "",
+		"version": "4.0.0",
+		"updated": "2021-02-03",
+		"description": "Introduces several food items including Hot Cocoa.",
+		"modURL": "https://github.com/ds5678/Food-Pack",
+		"downloadURL": "https://github.com/ds5678/Food-Pack/releases/download/4.0.0/Food-Pack.zip",
+		"testedon": {
+			"tldversion": "1.93",
+			"mlversion": "0.2.7"
+		},
+		"dependencies": ["AssetLoader","ModComponent"],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
 		}
 	}, {
 		"name": "FurClothingMod",
@@ -216,6 +254,25 @@
 			"notes": ""
 		}
 	}, {
+		"name": "ModComponent",
+		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
+		"authorURL": "",
+		"version": "4.0.0",
+		"updated": "2021-02-03",
+		"description": "Utility Mod; lets you load external item packs",
+		"modURL": "https://github.com/ds5678/ModComponent",
+		"downloadURL": "https://github.com/ds5678/ModComponent/releases/tag/4.0.0",
+		"testedon": {
+			"tldversion": "1.93",
+			"mlversion": "0.2.7"
+		},
+		"dependencies": ["AssetLoader"],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	}, {
 		"name": "Silent-Aurora",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -246,6 +303,25 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModSettings"],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	},{
+		"name": "WoodenStatuettes",
+		"author": "<a href='https://github.com/nbakulev' target='_blank'>nbakulev</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
+		"authorURL": "",
+		"version": "1.2",
+		"updated": "2021-02-03",
+		"description": "A cozy mod for The Long Dark.",
+		"modURL": "https://github.com/ds5678/Woodenstatuettes",
+		"downloadURL": "https://github.com/ds5678/Woodenstatuettes/releases/download/1.2/WoodenStatuettesV1.2.zip",
+		"testedon": {
+			"tldversion": "1.93",
+			"mlversion": "0.2.7"
+		},
+		"dependencies": ["AssetLoader","ModComponent"],
 		"status": {
 			"working": true,
 			"issues": "",
