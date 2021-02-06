@@ -132,7 +132,7 @@
 		"authorURL": "",
 		"version": "4.0.0",
 		"updated": "2021-02-03",
-		"description": "Introduces several clothing items including a new Beanie Cap.<br><br>1. If you haven't done so already, install MelonLoader by downloading and running MelonLoader.Installer.exe<br>2. If you haven't done so already, download the latest version of ModComponentAPI.dll and ModComponentMapper.dll from its releases page.<br>3. If you haven't done so already, download the latest version of AssetLoader.dll from its releases page.<br>4. If you haven't done so already, move ModComponentAPI.dll, ModComponentMapper.dll, and AssetLoader.dll into the Mods folder in your TLD install directory.<br>5. Run The Long Dark once. It should generate some subfolders in your mods folder.<br>6. Download Clothing-Pack.zip from the releases page.<br>7. Extract its contents. Doesn't matter where.<br>8. Move Clothing-Pack_Automapped into the auto-mapped folder within your mods folder.<br>9. Move Clothing-Pack.txt into the gear-spawns folder within your mods folder.",
+		"description": "Introduces several clothing items including a new Beanie Cap.<br><br>Installation Instructions:<br>1. If you haven't done so already, install MelonLoader by downloading and running MelonLoader.Installer.exe<br>2. If you haven't done so already, download the latest version of ModComponentAPI.dll and ModComponentMapper.dll from its releases page.<br>3. If you haven't done so already, download the latest version of AssetLoader.dll from its releases page.<br>4. If you haven't done so already, move ModComponentAPI.dll, ModComponentMapper.dll, and AssetLoader.dll into the Mods folder in your TLD install directory.<br>5. Run The Long Dark once. It should generate some subfolders in your mods folder.<br>6. Download Clothing-Pack.zip from the releases page.<br>7. Extract its contents. Doesn't matter where.<br>8. Move Clothing-Pack_Automapped into the auto-mapped folder within your mods folder.<br>9. Move Clothing-Pack.txt into the gear-spawns folder within your mods folder.",
 		"modURL": "https://github.com/ds5678/Clothing-Pack",
 		"downloadURL": "https://github.com/ds5678/Clothing-Pack/releases/download/4.0.0/Clothing-Pack.zip",
 		"testedon": {
@@ -204,7 +204,7 @@
 		"authorURL": "",
 		"version": "4.0.0",
 		"updated": "2021-02-03",
-		"description": "Introduces several food items including Hot Cocoa.",
+		"description": "Introduces several food items including Hot Cocoa.<br><br>Installation Instructions:<br>1. If you haven't done so already, install MelonLoader by downloading and running MelonLoader.Installer.exe<br>2. If you haven't done so already, download the latest version of ModComponentAPI.dll and ModComponentMapper.dll from its releases page<br>3. If you haven't done so already, download the latest version of AssetLoader.dll from its releases page<br>4. If you haven't done so already, move ModComponentAPI.dll, ModComponentMapper.dll, and AssetLoader.dll into the Mods folder in your TLD install directory<br>5. Run The Long Dark once. It should generate some subfolders in your mods folder.<br>6. Download Food-Pack.zip from the releases page<br>7. Extract its contents. Doesn't matter where.<br>8. Move Food-Pack_Automapped into the auto-mapped folder within your mods folder.<br>9. Move Food-Pack.txt into the gear-spawns folder within your mods folder.",
 		"modURL": "https://github.com/ds5678/Food-Pack",
 		"downloadURL": "https://github.com/ds5678/Food-Pack/releases/download/4.0.0/Food-Pack.zip",
 		"testedon": {
@@ -314,7 +314,7 @@
 		"authorURL": "",
 		"version": "1.2",
 		"updated": "2021-02-03",
-		"description": "A cozy mod for The Long Dark.",
+		"description": "A cozy mod for The Long Dark.<br><br>Installation Instructions:<br>1. If you haven't done so already, install MelonLoader by downloading and running MelonLoader.Installer.exe<br>2. If you haven't done so already, download the latest version of ModComponentAPI.dll and ModComponentMapper.dll from its releases page<br>3. If you haven't done so already, download the latest version of AssetLoader.dll from its releases page<br>4. If you haven't done so already, move ModComponentAPI.dll, ModComponentMapper.dll, and AssetLoader.dll into the Mods folder in your TLD install directory<br>5. Run The Long Dark once. It should generate some subfolders in your mods folder.<br>6. Download WoodenStatuettesV1.2.zip from the releases page<br>7. Extract its contents. Doesn't matter where.<br>8. Move WoodenStatuettes_Automapped into the auto-mapped folder within your mods folder.<br>9. Move WoodenStatuettes_Blueprints into the blueprints folder within your mods folder.",
 		"modURL": "https://github.com/ds5678/Woodenstatuettes",
 		"downloadURL": "https://github.com/ds5678/Woodenstatuettes/releases/download/1.2/WoodenStatuettesV1.2.zip",
 		"testedon": {
