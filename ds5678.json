@@ -132,7 +132,7 @@
 		"authorURL": "",
 		"version": "4.0.0",
 		"updated": "2021-02-03",
-		"description": "Introduces several clothing items including a new Beanie Cap.",
+		"description": "Introduces several clothing items including a new Beanie Cap.\n\n1. If you haven't done so already, install MelonLoader by downloading and running MelonLoader.Installer.exe\n2. If you haven't done so already, download the latest version of ModComponentAPI.dll and ModComponentMapper.dll from its releases page.\n3. If you haven't done so already, download the latest version of AssetLoader.dll from its releases page.\n4. If you haven't done so already, move ModComponentAPI.dll, ModComponentMapper.dll, and AssetLoader.dll into the Mods folder in your TLD install directory.\n5. Run The Long Dark once. It should generate some subfolders in your mods folder.\n6. Download Clothing-Pack.zip from the releases page.\n7. Extract its contents. Doesn't matter where.\n8. Move Clothing-Pack_Automapped into the auto-mapped folder within your mods folder.\n9. Move Clothing-Pack.txt into the gear-spawns folder within your mods folder.",
 		"modURL": "https://github.com/ds5678/Clothing-Pack",
 		"downloadURL": "https://github.com/ds5678/Clothing-Pack/releases/download/4.0.0/Clothing-Pack.zip",
 		"testedon": {
@@ -143,7 +143,7 @@
 		"status": {
 			"working": true,
 			"issues": "",
-			"notes": "1. If you haven't done so already, install MelonLoader by downloading and running MelonLoader.Installer.exe\n2. If you haven't done so already, download the latest version of ModComponentAPI.dll and ModComponentMapper.dll from its releases page.\n3. If you haven't done so already, download the latest version of AssetLoader.dll from its releases page.\n4. If you haven't done so already, move ModComponentAPI.dll, ModComponentMapper.dll, and AssetLoader.dll into the Mods folder in your TLD install directory.\n5. Run The Long Dark once. It should generate some subfolders in your mods folder.\n6. Download Clothing-Pack.zip from the releases page.\n7. Extract its contents. Doesn't matter where.\n8. Move Clothing-Pack_Automapped into the auto-mapped folder within your mods folder.\n9. Move Clothing-Pack.txt into the gear-spawns folder within your mods folder."
+			"notes": ""
 		}
 	}, {
 		"name": "Coordinates-Grabber",
