@@ -11,7 +11,7 @@
 		"modURL": "https://github.com/ds5678/tld-ArrowMod",
 		"downloadURL": "https://github.com/ds5678/tld-ArrowMod/releases/download/1.3/ArrowMod.dll",
 		"testedon": {
-			"tldversion": "1.92",
+			"tldversion": "1.93",
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModSettings"],
@@ -94,11 +94,11 @@
 		}
 	}, {
 		"name": "BleakBridge",
-		"version": "1.0.0",
-		"updated": "2021-01-28",
+		"version": "1.1.0",
+		"updated": "2021-02-08",
 		"description": "Add a bridge to the Cannery Workshop.",
 		"modURL": "https://github.com/ds5678/BleakBridge",
-		"downloadURL": "https://github.com/ds5678/BleakBridge/releases/download/1.0.0/BleakBridge.dll",
+		"downloadURL": "https://github.com/ds5678/BleakBridge/releases/download/1.1.0/BleakBridge.dll",
 		"testedon": {
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
@@ -245,6 +245,25 @@
 		"downloadURL": "https://github.com/ds5678/IncreaseSaveSlotLimit/releases/download/1.1/IncreaseSaveSlotLimit.dll",
 		"testedon": {
 			"tldversion": "1.92",
+			"mlversion": "0.2.7"
+		},
+		"dependencies": [],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	}, {
+		"name": "KeyboardUtilities",
+		"author": "<a href='https://github.com/sinai-dev' target='_blank'>Sinai</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
+		"authorURL": "",
+		"version": "1.0.0",
+		"updated": "2021-02-09",
+		"description": "A utility mod that enables other mods to more easily use keyboard input.",
+		"modURL": "https://github.com/ds5678/KeyboardUtilities",
+		"downloadURL": "https://github.com/ds5678/KeyboardUtilities/releases/download/1.0.0/KeyboardUtilities.dll",
+		"testedon": {
+			"tldversion": "1.93",
 			"mlversion": "0.2.7"
 		},
 		"dependencies": [],
