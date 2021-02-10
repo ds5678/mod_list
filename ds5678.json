@@ -334,8 +334,8 @@
 		"version": "2.0.0",
 		"updated": "2021-02-10",
 		"description": "Lets you level up individual skills faster",
-		"modURL": "https://github.com/ds5678/Quick-Wittted",
-		"downloadURL": "https://github.com/ds5678/Quick-Wittted/releases/download/2.0.0/QuickWitted.dll",
+		"modURL": "https://github.com/ds5678/Quick-Witted",
+		"downloadURL": "https://github.com/ds5678/Quick-Witted/releases/download/2.0.0/QuickWitted.dll",
 		"testedon": {
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
