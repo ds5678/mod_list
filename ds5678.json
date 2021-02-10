@@ -328,6 +328,25 @@
 			"notes": ""
 		}
 	},{
+		"name": "QuickWitted",
+		"author": "<a href='https://github.com/felipeds' target='_blank'>felipeds</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
+		"authorURL": "",
+		"version": "2.0.0",
+		"updated": "2021-02-10",
+		"description": "Lets you level up individual skills faster",
+		"modURL": "https://github.com/ds5678/Quick-Wittted",
+		"downloadURL": "https://github.com/ds5678/Quick-Wittted/releases/download/2.0.0/QuickWitted.dll",
+		"testedon": {
+			"tldversion": "1.93",
+			"mlversion": "0.2.7"
+		},
+		"dependencies": ["ModSettings"],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	},{
 		"name": "WoodenStatuettes",
 		"author": "<a href='https://github.com/nbakulev' target='_blank'>nbakulev</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
