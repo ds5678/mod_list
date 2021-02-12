@@ -40,6 +40,25 @@
 			"notes": ""
 		}
 	}, {
+		"name": "Better-Fuel-Management",
+		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
+		"authorURL": "",
+		"version": "4.0.0",
+		"updated": "2021-02-11",
+		"description": "Makes kerosene management more realistic.",
+		"modURL": "https://github.com/ds5678/Better-Fuel-Management",
+		"downloadURL": "https://github.com/ds5678/Better-Fuel-Management/releases/download/4.0.0/Better-Fuel-Management.dll",
+		"testedon": {
+			"tldversion": "1.93",
+			"mlversion": "0.2.7"
+		},
+		"dependencies": ["ModSettings","KeyboardUtilities","RadialMenuUtilities"],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	}, {
 		"name": "Better-Stacking",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -292,6 +311,23 @@
 			"notes": ""
 		}
 	}, {
+		"name": "RadialMenuUtilities",
+		"version": "1.0.0",
+		"updated": "2021-02-11",
+		"description": "A utility mod that adds the ability for other mods to create custom radial menus.",
+		"modURL": "https://github.com/ds5678/RadialMenuUtilities",
+		"downloadURL": "https://github.com/ds5678/RadialMenuUtilities/releases/download/1.0.0/RadialMenuUtilities.dll",
+		"testedon": {
+			"tldversion": "1.93",
+			"mlversion": "0.2.7"
+		},
+		"dependencies": ["KeyboardUtilities"],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	},{
 		"name": "Silent-Aurora",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
