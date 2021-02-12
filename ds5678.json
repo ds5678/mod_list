@@ -276,11 +276,11 @@
 		"name": "KeyboardUtilities",
 		"author": "<a href='https://github.com/sinai-dev' target='_blank'>Sinai</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "1.0.0",
-		"updated": "2021-02-09",
+		"version": "1.1.0",
+		"updated": "2021-02-11",
 		"description": "A utility mod that enables other mods to more easily use keyboard input.",
 		"modURL": "https://github.com/ds5678/KeyboardUtilities",
-		"downloadURL": "https://github.com/ds5678/KeyboardUtilities/releases/download/1.0.0/KeyboardUtilities.dll",
+		"downloadURL": "https://github.com/ds5678/KeyboardUtilities/releases/download/1.1.0/KeyboardUtilities.dll",
 		"testedon": {
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
