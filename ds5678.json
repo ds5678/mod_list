@@ -43,11 +43,11 @@
 		"name": "Better-Fuel-Management",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "4.0.0",
+		"version": "4.0.1",
 		"updated": "2021-02-11",
 		"description": "Makes kerosene management more realistic.",
 		"modURL": "https://github.com/ds5678/Better-Fuel-Management",
-		"downloadURL": "https://github.com/ds5678/Better-Fuel-Management/releases/download/4.0.0/Better-Fuel-Management.dll",
+		"downloadURL": "https://github.com/ds5678/Better-Fuel-Management/releases/download/4.0.1/Better-Fuel-Management.dll",
 		"testedon": {
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
