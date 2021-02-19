@@ -292,6 +292,25 @@
 			"notes": ""
 		}
 	}, {
+		"name": "Map-Maker-Tools",
+		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
+		"authorURL": "",
+		"version": "4.0.0",
+		"updated": "2021-02-19",
+		"description": "Mod aiding in mapping the terrain for The Long Dark",
+		"modURL": "https://github.com/ds5678/Map-Maker-Tools",
+		"downloadURL": "https://github.com/ds5678/Map-Maker-Tools/releases/download/4.0.0/MapMakerTools.dll",
+		"testedon": {
+			"tldversion": "1.93",
+			"mlversion": "0.2.7"
+		},
+		"dependencies": [],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	}, {
 		"name": "ModComponent",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
