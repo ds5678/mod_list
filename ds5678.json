@@ -24,11 +24,11 @@
 		"name": "AssetLoader",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "4.0.5",
-		"updated": "2021-02-03",
+		"version": "4.1.0",
+		"updated": "2021-02-21",
 		"description": "Infrastructure library for The Long Dark, allowing to integrate external assets. Used as a dependency for other mods.",
 		"modURL": "https://github.com/ds5678/AssetLoader",
-		"downloadURL": "https://github.com/ds5678/AssetLoader/releases/download/4.0.5/AssetLoader.dll",
+		"downloadURL": "https://github.com/ds5678/AssetLoader/releases/download/4.1.0/AssetLoader.dll",
 		"testedon": {
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
@@ -40,14 +40,31 @@
 			"notes": ""
 		}
 	}, {
+		"name": "BeachcombingAdjustments",
+		"version": "1.1",
+		"updated": "2021-01-20",
+		"description": "Lets you change the loot table for beachcombing.",
+		"modURL": "https://github.com/ds5678/BeachcombingAdjustments",
+		"downloadURL": "https://github.com/ds5678/BeachcombingAdjustments/releases/download/1.1/BeachcombingAdjustments.dll",
+		"testedon": {
+			"tldversion": "1.93",
+			"mlversion": "0.2.7"
+		},
+		"dependencies": ["ModSettings"],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	}, {
 		"name": "Better-Fuel-Management",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "4.0.1",
-		"updated": "2021-02-11",
+		"version": "4.0.2",
+		"updated": "2021-02-21",
 		"description": "Makes kerosene management more realistic.",
 		"modURL": "https://github.com/ds5678/Better-Fuel-Management",
-		"downloadURL": "https://github.com/ds5678/Better-Fuel-Management/releases/download/4.0.1/Better-Fuel-Management.dll",
+		"downloadURL": "https://github.com/ds5678/Better-Fuel-Management/releases/download/4.0.2/Better-Fuel-Management.dll",
 		"testedon": {
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
@@ -78,17 +95,19 @@
 			"notes": ""
 		}
 	}, {
-		"name": "BeachcombingAdjustments",
-		"version": "1.1",
-		"updated": "2021-01-20",
-		"description": "Lets you change the loot table for beachcombing.",
-		"modURL": "https://github.com/ds5678/BeachcombingAdjustments",
-		"downloadURL": "https://github.com/ds5678/BeachcombingAdjustments/releases/download/1.1/BeachcombingAdjustments.dll",
+		"name": "Better-Water-Management",
+		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
+		"authorURL": "",
+		"version": "4.0.0",
+		"updated": "2021-02-21",
+		"description": "Mod improving the way water is managed for The Long Dark.<br><br><a href='https://github.com/ds5678/Better-Water-Management' target='_blank'>Installation Instructions</a>",
+		"modURL": "https://github.com/ds5678/Better-Water-Management",
+		"downloadURL": "https://github.com/ds5678/Better-Water-Management/releases/download/4.0.0/BetterWaterManagement.zip",
 		"testedon": {
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
 		},
-		"dependencies": ["ModSettings"],
+		"dependencies": ["AssetLoader","ModComponent","ModSettings"],
 		"status": {
 			"working": true,
 			"issues": "",
@@ -149,11 +168,11 @@
 		"name": "Clothing-Pack",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "4.0.0",
-		"updated": "2021-02-03",
-		"description": "Introduces several clothing items including a new Beanie Cap.<br><br>Installation Instructions:<br>1. If you haven't done so already, install MelonLoader by downloading and running MelonLoader.Installer.exe<br>2. If you haven't done so already, download the latest version of ModComponentAPI.dll and ModComponentMapper.dll from its releases page.<br>3. If you haven't done so already, download the latest version of AssetLoader.dll from its releases page.<br>4. If you haven't done so already, move ModComponentAPI.dll, ModComponentMapper.dll, and AssetLoader.dll into the Mods folder in your TLD install directory.<br>5. Run The Long Dark once. It should generate some subfolders in your mods folder.<br>6. Download Clothing-Pack.zip from the releases page.<br>7. Extract its contents. Doesn't matter where.<br>8. Move Clothing-Pack_Automapped into the auto-mapped folder within your mods folder.<br>9. Move Clothing-Pack.txt into the gear-spawns folder within your mods folder.",
+		"version": "4.1.0",
+		"updated": "2021-02-21",
+		"description": "Introduces several clothing items including a new Beanie Cap.<br><br><a href='https://github.com/ds5678/Clothing-Pack' target='_blank'>Installation Instructions</a>",
 		"modURL": "https://github.com/ds5678/Clothing-Pack",
-		"downloadURL": "https://github.com/ds5678/Clothing-Pack/releases/download/4.0.0/Clothing-Pack.zip",
+		"downloadURL": "https://github.com/ds5678/Clothing-Pack/releases/download/4.1.0/Clothing-Pack.zip",
 		"testedon": {
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
@@ -168,16 +187,16 @@
 		"name": "Coordinates-Grabber",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "4.0.0",
-		"updated": "2021-01-23",
+		"version": "4.1.0",
+		"updated": "2021-02-21",
 		"description": "Utility mod. Allows you to see/copy the name, position, rotation, and scene of interactive items.",
 		"modURL": "https://github.com/ds5678/Coordinates-Grabber",
-		"downloadURL": "https://github.com/ds5678/Coordinates-Grabber/releases/download/4.0.0/Coordinates-Grabber.dll",
+		"downloadURL": "https://github.com/ds5678/Coordinates-Grabber/releases/download/4.1.0/Coordinates-Grabber.dll",
 		"testedon": {
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
 		},
-		"dependencies": [],
+		"dependencies": ["KeyboardUtilities","ModSettings"],
 		"status": {
 			"working": true,
 			"issues": "",
@@ -221,9 +240,9 @@
 		"name": "Food-Pack",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "4.0.0",
-		"updated": "2021-02-03",
-		"description": "Introduces several food items including Hot Cocoa.<br><br>Installation Instructions:<br>1. If you haven't done so already, install MelonLoader by downloading and running MelonLoader.Installer.exe<br>2. If you haven't done so already, download the latest version of ModComponentAPI.dll and ModComponentMapper.dll from its releases page<br>3. If you haven't done so already, download the latest version of AssetLoader.dll from its releases page<br>4. If you haven't done so already, move ModComponentAPI.dll, ModComponentMapper.dll, and AssetLoader.dll into the Mods folder in your TLD install directory<br>5. Run The Long Dark once. It should generate some subfolders in your mods folder.<br>6. Download Food-Pack.zip from the releases page<br>7. Extract its contents. Doesn't matter where.<br>8. Move Food-Pack_Automapped into the auto-mapped folder within your mods folder.<br>9. Move Food-Pack.txt into the gear-spawns folder within your mods folder.",
+		"version": "4.1.0",
+		"updated": "2021-02-21",
+		"description": "Introduces several food items including Hot Cocoa.<br><br><a href='https://github.com/ds5678/Food-Pack' target='_blank'>Installation Instructions</a>",
 		"modURL": "https://github.com/ds5678/Food-Pack",
 		"downloadURL": "https://github.com/ds5678/Food-Pack/releases/download/4.0.0/Food-Pack.zip",
 		"testedon": {
@@ -276,11 +295,11 @@
 		"name": "KeyboardUtilities",
 		"author": "<a href='https://github.com/sinai-dev' target='_blank'>Sinai</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "1.1.0",
-		"updated": "2021-02-11",
-		"description": "A utility mod that enables other mods to more easily use keyboard input.",
+		"version": "1.2.0",
+		"updated": "2021-02-21",
+		"description": "A utility mod that enables other mods to more easily use keyboard and mouse input.",
 		"modURL": "https://github.com/ds5678/KeyboardUtilities",
-		"downloadURL": "https://github.com/ds5678/KeyboardUtilities/releases/download/1.1.0/KeyboardUtilities.dll",
+		"downloadURL": "https://github.com/ds5678/KeyboardUtilities/releases/download/1.2.0/KeyboardUtilities.dll",
 		"testedon": {
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
@@ -314,11 +333,11 @@
 		"name": "ModComponent",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "4.0.0",
-		"updated": "2021-02-03",
+		"version": "4.1.0",
+		"updated": "2021-02-21",
 		"description": "Utility Mod; lets you load external item packs",
 		"modURL": "https://github.com/ds5678/ModComponent",
-		"downloadURL": "https://github.com/ds5678/ModComponent/releases/tag/4.0.0",
+		"downloadURL": "https://github.com/ds5678/ModComponent/releases/tag/4.1.0",
 		"testedon": {
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
@@ -341,6 +360,23 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["KeyboardUtilities"],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	},{
+		"name": "RandomizeInterloperRareSpawns",
+		"version": "1.0.0",
+		"updated": "2021-02-21",
+		"description": "Randomizes the Interloper loot tables. Do not use on existing saves.<br><br><a href='https://github.com/ds5678/RandomizeInterloperRareSpawns' target='_blank'>Installation Instructions</a>",
+		"modURL": "https://github.com/ds5678/RandomizeInterloperRareSpawns",
+		"downloadURL": "https://github.com/ds5678/RandomizeInterloperRareSpawns/releases/download/1.0.0/RandomizeInterloperRareSpawns.zip",
+		"testedon": {
+			"tldversion": "1.93",
+			"mlversion": "0.2.7"
+		},
+		"dependencies": ["AssetLoader","ModComponent"],
 		"status": {
 			"working": true,
 			"issues": "",
@@ -407,7 +443,7 @@
 		"authorURL": "",
 		"version": "1.2",
 		"updated": "2021-02-03",
-		"description": "A cozy mod for The Long Dark.<br><br>Installation Instructions:<br>1. If you haven't done so already, install MelonLoader by downloading and running MelonLoader.Installer.exe<br>2. If you haven't done so already, download the latest version of ModComponentAPI.dll and ModComponentMapper.dll from its releases page<br>3. If you haven't done so already, download the latest version of AssetLoader.dll from its releases page<br>4. If you haven't done so already, move ModComponentAPI.dll, ModComponentMapper.dll, and AssetLoader.dll into the Mods folder in your TLD install directory<br>5. Run The Long Dark once. It should generate some subfolders in your mods folder.<br>6. Download WoodenStatuettesV1.2.zip from the releases page<br>7. Extract its contents. Doesn't matter where.<br>8. Move WoodenStatuettes_Automapped into the auto-mapped folder within your mods folder.<br>9. Move WoodenStatuettes_Blueprints into the blueprints folder within your mods folder.",
+		"description": "A cozy mod for The Long Dark.<br><br><a href='https://github.com/ds5678/Woodenstatuettes' target='_blank'>Installation Instructions</a>",
 		"modURL": "https://github.com/ds5678/Woodenstatuettes",
 		"downloadURL": "https://github.com/ds5678/Woodenstatuettes/releases/download/1.2/WoodenStatuettesV1.2.zip",
 		"testedon": {
