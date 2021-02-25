@@ -26,7 +26,7 @@
 		"authorURL": "",
 		"version": "4.1.0",
 		"updated": "2021-02-21",
-		"description": "Infrastructure library for The Long Dark, allowing to integrate external assets. Used as a dependency for other mods.",
+		"description": "Infrastructure library for The Long Dark, allowing to integrate external assets. Used as a dependency for other mods.<br><br><a href='https://https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/AssetLoader",
 		"downloadURL": "https://github.com/ds5678/AssetLoader/releases/download/4.1.0/AssetLoader.dll",
 		"testedon": {
@@ -43,7 +43,7 @@
 		"name": "BeachcombingAdjustments",
 		"version": "1.1",
 		"updated": "2021-01-20",
-		"description": "Lets you change the loot table for beachcombing.",
+		"description": "Lets you change the loot table for beachcombing.<br><br><a href='https://https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/BeachcombingAdjustments",
 		"downloadURL": "https://github.com/ds5678/BeachcombingAdjustments/releases/download/1.1/BeachcombingAdjustments.dll",
 		"testedon": {
@@ -62,7 +62,7 @@
 		"authorURL": "",
 		"version": "4.0.2",
 		"updated": "2021-02-21",
-		"description": "Makes kerosene management more realistic.",
+		"description": "Makes kerosene management more realistic.<br><br><a href='https://https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/Better-Fuel-Management",
 		"downloadURL": "https://github.com/ds5678/Better-Fuel-Management/releases/download/4.0.2/Better-Fuel-Management.dll",
 		"testedon": {
@@ -81,7 +81,7 @@
 		"authorURL": "",
 		"version": "4.0",
 		"updated": "2021-01-13",
-		"description": "Makes more items stackable in the inventory.",
+		"description": "Makes more items stackable in the inventory.<br><br><a href='https://https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/Better-Stacking",
 		"downloadURL": "https://github.com/ds5678/Better-Stacking/releases/download/4.0/Better-Stacking.dll",
 		"testedon": {
@@ -100,7 +100,7 @@
 		"authorURL": "",
 		"version": "4.0.0",
 		"updated": "2021-02-21",
-		"description": "Mod improving the way water is managed for The Long Dark.<br><br><a href='https://github.com/ds5678/Better-Water-Management' target='_blank'>Installation Instructions</a>",
+		"description": "Mod improving the way water is managed for The Long Dark.<br><br><a href='https://github.com/ds5678/Better-Water-Management' target='_blank'>Installation Instructions</a><br><br><a href='https://https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/Better-Water-Management",
 		"downloadURL": "https://github.com/ds5678/Better-Water-Management/releases/download/4.0.0/BetterWaterManagement.zip",
 		"testedon": {
@@ -117,7 +117,7 @@
 		"name": "BlanketMod",
 		"version": "1.1",
 		"updated": "2021-01-13",
-		"description": "Add a warm blanket to the game. Also adds bedroll crafting.",
+		"description": "Add a warm blanket to the game. Also adds bedroll crafting.<br><br><a href='https://https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/BlanketMod",
 		"downloadURL": "https://github.com/ds5678/BlanketMod/releases/download/1.1/BlanketMod.dll",
 		"testedon": {
@@ -134,7 +134,7 @@
 		"name": "BleakBridge",
 		"version": "1.1.0",
 		"updated": "2021-02-08",
-		"description": "Add a bridge to the Cannery Workshop.",
+		"description": "Add a bridge to the Cannery Workshop.<br><br><a href='https://https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/BleakBridge",
 		"downloadURL": "https://github.com/ds5678/BleakBridge/releases/download/1.1.0/BleakBridge.dll",
 		"testedon": {
@@ -151,7 +151,7 @@
 		"name": "CanneryManufacturing",
 		"version": "1.1",
 		"updated": "2021-01-11",
-		"description": "Makes Bleak Inlet more useful, especially on Interloper.",
+		"description": "Makes Bleak Inlet more useful, especially on Interloper.<br><br><a href='https://https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/CanneryManufacturing",
 		"downloadURL": "https://github.com/ds5678/CanneryManufacturing/releases/download/1.1/CanneryManufacturing.dll",
 		"testedon": {
@@ -170,7 +170,7 @@
 		"authorURL": "",
 		"version": "4.1.0",
 		"updated": "2021-02-21",
-		"description": "Introduces several clothing items including a new Beanie Cap.<br><br><a href='https://github.com/ds5678/Clothing-Pack' target='_blank'>Installation Instructions</a>",
+		"description": "Introduces several clothing items including a new Beanie Cap.<br><br><a href='https://github.com/ds5678/Clothing-Pack' target='_blank'>Installation Instructions</a><br><br><a href='https://https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/Clothing-Pack",
 		"downloadURL": "https://github.com/ds5678/Clothing-Pack/releases/download/4.1.0/Clothing-Pack.zip",
 		"testedon": {
@@ -189,7 +189,7 @@
 		"authorURL": "",
 		"version": "4.1.0",
 		"updated": "2021-02-21",
-		"description": "Utility mod. Allows you to see/copy the name, position, rotation, and scene of interactive items.",
+		"description": "Utility mod. Allows you to see/copy the name, position, rotation, and scene of interactive items.<br><br><a href='https://https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/Coordinates-Grabber",
 		"downloadURL": "https://github.com/ds5678/Coordinates-Grabber/releases/download/4.1.0/Coordinates-Grabber.dll",
 		"testedon": {
@@ -203,10 +203,29 @@
 			"notes": ""
 		}
 	}, {
+		"name": "Disable-Cabin-Fever",
+		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
+		"authorURL": "",
+		"version": "4.0.0",
+		"updated": "2021-02-25",
+		"description": "Disables Cabin Fever in all game modes.<br><br><a href='https://https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+		"modURL": "https://github.com/ds5678/Disable-Cabin-Fever",
+		"downloadURL": "https://github.com/ds5678/Disable-Cabin-Fever/releases/download/4.0.0/Disable-Cabin-Fever.dll",
+		"testedon": {
+			"tldversion": "1.93",
+			"mlversion": "0.2.7"
+		},
+		"dependencies": [],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	}, {
 		"name": "ExtremeSnowWalker",
 		"version": "1.0",
 		"updated": "2021-01-19",
-		"description": "Lets you adjust sprint recovery settings. Ironically, Snow Walker feat not required.",
+		"description": "Lets you adjust sprint recovery settings. Ironically, Snow Walker feat not required.<br><br><a href='https://https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/ExtremeSnowWalker",
 		"downloadURL": "https://github.com/ds5678/ExtremeSnowWalker/releases/download/1.0/ExtremeSnowWalker.dll",
 		"testedon": {
@@ -223,7 +242,7 @@
 		"name": "ForgeBlueprintsMod",
 		"version": "1.1",
 		"updated": "2021-01-13",
-		"description": "Adds some blueprints for the forge.",
+		"description": "Adds some blueprints for the forge.<br><br><a href='https://https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/ForgeBlueprintsMod",
 		"downloadURL": "https://github.com/ds5678/ForgeBlueprintsMod/releases/download/1.1/ForgeBlueprintsMod.dll",
 		"testedon": {
@@ -242,7 +261,7 @@
 		"authorURL": "",
 		"version": "4.1.0",
 		"updated": "2021-02-21",
-		"description": "Introduces several food items including Hot Cocoa.<br><br><a href='https://github.com/ds5678/Food-Pack' target='_blank'>Installation Instructions</a>",
+		"description": "Introduces several food items including Hot Cocoa.<br><br><a href='https://github.com/ds5678/Food-Pack' target='_blank'>Installation Instructions</a><br><br><a href='https://https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/Food-Pack",
 		"downloadURL": "https://github.com/ds5678/Food-Pack/releases/download/4.0.0/Food-Pack.zip",
 		"testedon": {
@@ -259,7 +278,7 @@
 		"name": "FurClothingMod",
 		"version": "1.0",
 		"updated": "2021-01-11",
-		"description": "Lets you change fur clothing stats.",
+		"description": "Lets you change fur clothing stats.<br><br><a href='https://https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/FurClothingMod",
 		"downloadURL": "https://github.com/ds5678/FurClothingMod/releases/download/1.0/FurClothingMod.dll",
 		"testedon": {
@@ -278,7 +297,7 @@
 		"authorURL": "",
 		"version": "1.1",
 		"updated": "2021-01-14",
-		"description": "Increases the save slot limit to 999 instead of the default 25.",
+		"description": "Increases the save slot limit to 999 instead of the default 25.<br><br><a href='https://https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/Better-Stacking",
 		"downloadURL": "https://github.com/ds5678/IncreaseSaveSlotLimit/releases/download/1.1/IncreaseSaveSlotLimit.dll",
 		"testedon": {
@@ -297,7 +316,7 @@
 		"authorURL": "",
 		"version": "1.2.0",
 		"updated": "2021-02-21",
-		"description": "A utility mod that enables other mods to more easily use keyboard and mouse input.",
+		"description": "A utility mod that enables other mods to more easily use keyboard and mouse input.<br><br><a href='https://https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/KeyboardUtilities",
 		"downloadURL": "https://github.com/ds5678/KeyboardUtilities/releases/download/1.2.0/KeyboardUtilities.dll",
 		"testedon": {
@@ -335,7 +354,7 @@
 		"authorURL": "",
 		"version": "4.1.1",
 		"updated": "2021-02-22",
-		"description": "Utility Mod; lets you load external item packs",
+		"description": "Utility Mod; lets you load external item packs.<br><br><a href='https://https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/ModComponent",
 		"downloadURL": "https://github.com/ds5678/ModComponent/releases/tag/4.1.1",
 		"testedon": {
@@ -352,7 +371,7 @@
 		"name": "RadialMenuUtilities",
 		"version": "1.0.0",
 		"updated": "2021-02-11",
-		"description": "A utility mod that adds the ability for other mods to create custom radial menus.",
+		"description": "A utility mod that adds the ability for other mods to create custom radial menus.<br><br><a href='https://https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/RadialMenuUtilities",
 		"downloadURL": "https://github.com/ds5678/RadialMenuUtilities/releases/download/1.0.0/RadialMenuUtilities.dll",
 		"testedon": {
@@ -369,7 +388,7 @@
 		"name": "RandomizeInterloperRareSpawns",
 		"version": "1.0.0",
 		"updated": "2021-02-21",
-		"description": "Randomizes the Interloper loot tables. Do not use on existing saves.<br><br><a href='https://github.com/ds5678/RandomizeInterloperRareSpawns' target='_blank'>Installation Instructions</a>",
+		"description": "Randomizes the Interloper loot tables. Do not use on existing saves.<br><br><a href='https://github.com/ds5678/RandomizeInterloperRareSpawns' target='_blank'>Installation Instructions</a><br><br><a href='https://https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/RandomizeInterloperRareSpawns",
 		"downloadURL": "https://github.com/ds5678/RandomizeInterloperRareSpawns/releases/download/1.0.0/RandomizeInterloperRareSpawns.zip",
 		"testedon": {
@@ -388,7 +407,7 @@
 		"authorURL": "",
 		"version": "3.0.0",
 		"updated": "2021-01-19",
-		"description": "Removes the aurora music, including the radio. Does not affect the humming/crackling of electronics.",
+		"description": "Removes the aurora music, including the radio. Does not affect the humming/crackling of electronics.<br><br><a href='https://https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/Silent-Aurora",
 		"downloadURL": "https://github.com/ds5678/Silent-Aurora/releases/download/3.0.0/Silent-Aurora.dll",
 		"testedon": {
@@ -405,7 +424,7 @@
 		"name": "SonicMode",
 		"version": "1.0.0",
 		"updated": "2021-01-20",
-		"description": "Lets you sprint up to 50 times faster",
+		"description": "Lets you sprint up to 50 times faster<br><br><a href='https://https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/SonicMode",
 		"downloadURL": "https://github.com/ds5678/SonicMode/releases/download/1.0.0/SonicMode.dll",
 		"testedon": {
@@ -424,7 +443,7 @@
 		"authorURL": "",
 		"version": "2.0.0",
 		"updated": "2021-02-10",
-		"description": "Lets you level up individual skills faster",
+		"description": "Lets you level up individual skills faster<br><br><a href='https://https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/Quick-Witted",
 		"downloadURL": "https://github.com/ds5678/Quick-Witted/releases/download/2.0.0/QuickWitted.dll",
 		"testedon": {
@@ -443,7 +462,7 @@
 		"authorURL": "",
 		"version": "1.2",
 		"updated": "2021-02-03",
-		"description": "A cozy mod for The Long Dark.<br><br><a href='https://github.com/ds5678/Woodenstatuettes' target='_blank'>Installation Instructions</a>",
+		"description": "A cozy mod for The Long Dark.<br><br><a href='https://github.com/ds5678/Woodenstatuettes' target='_blank'>Installation Instructions</a><br><br><a href='https://https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/Woodenstatuettes",
 		"downloadURL": "https://github.com/ds5678/Woodenstatuettes/releases/download/1.2/WoodenStatuettesV1.2.zip",
 		"testedon": {
