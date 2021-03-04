@@ -222,23 +222,6 @@
 			"notes": ""
 		}
 	}, {
-		"name": "ExtremeSnowWalker",
-		"version": "1.0",
-		"updated": "2021-01-19",
-		"description": "Lets you adjust sprint recovery settings. Ironically, Snow Walker feat not required.<br><br><a href='https://https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-		"modURL": "https://github.com/ds5678/ExtremeSnowWalker",
-		"downloadURL": "https://github.com/ds5678/ExtremeSnowWalker/releases/download/1.0/ExtremeSnowWalker.dll",
-		"testedon": {
-			"tldversion": "1.93",
-			"mlversion": "0.2.7"
-		},
-		"dependencies": ["ModSettings"],
-		"status": {
-			"working": true,
-			"issues": "",
-			"notes": ""
-		}
-	}, {
 		"name": "ForgeBlueprintsMod",
 		"version": "1.1",
 		"updated": "2021-01-13",
@@ -422,11 +405,11 @@
 		}
 	},{
 		"name": "SonicMode",
-		"version": "1.0.0",
-		"updated": "2021-01-20",
+		"version": "1.1.0",
+		"updated": "2021-03-04",
 		"description": "Lets you sprint up to 50 times faster<br><br><a href='https://https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/SonicMode",
-		"downloadURL": "https://github.com/ds5678/SonicMode/releases/download/1.0.0/SonicMode.dll",
+		"downloadURL": "https://github.com/ds5678/SonicMode/releases/download/1.1.0/SonicMode.dll",
 		"testedon": {
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
