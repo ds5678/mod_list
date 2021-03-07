@@ -203,6 +203,23 @@
 			"notes": ""
 		}
 	}, {
+		"name": "CraftingHotkey",
+		"version": "1.0.0",
+		"updated": "2021-03-07",
+		"description": "Add a hotkey for the crafting menu.<br><br><a href='https://https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+		"modURL": "https://github.com/ds5678/CraftingHotkey",
+		"downloadURL": "https://github.com/ds5678/CraftingHotkey/releases/download/1.0.0/CraftingHotkey.dll",
+		"testedon": {
+			"tldversion": "1.93",
+			"mlversion": "0.2.7"
+		},
+		"dependencies": ["ModSettings"],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	}, {
 		"name": "Disable-Cabin-Fever",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
