@@ -79,13 +79,13 @@
 		"name": "Better-Stacking",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "4.0",
-		"updated": "2021-01-13",
+		"version": "4.1.0",
+		"updated": "2021-03-13",
 		"description": "Makes more items stackable in the inventory.<br><br><a href='https://https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/Better-Stacking",
-		"downloadURL": "https://github.com/ds5678/Better-Stacking/releases/download/4.0/Better-Stacking.dll",
+		"downloadURL": "https://github.com/ds5678/Better-Stacking/releases/download/4.1.0/Better-Stacking.dll",
 		"testedon": {
-			"tldversion": "1.92",
+			"tldversion": "1.93",
 			"mlversion": "0.2.7"
 		},
 		"dependencies": [],
@@ -214,6 +214,25 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModSettings"],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	}, {
+		"name": "CustomWhiteout",
+		"author": "<a href='https://github.com/MikeyPdog' target='_blank'>MikeyPdog</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
+		"authorURL": "",
+		"version": "2.0.0",
+		"updated": "2021-03-13",
+		"description": "Custom Whiteout Challenge. Allows the player to set the items to be gathered and the place to gather items to.<br><br><a href='https://https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+		"modURL": "https://github.com/ds5678/CustomWhiteout",
+		"downloadURL": "https://github.com/ds5678/CustomWhiteout/releases/download/2.0.0/CustomWhiteout.dll",
+		"testedon": {
+			"tldversion": "1.93",
+			"mlversion": "0.2.7"
+		},
+		"dependencies": [],
 		"status": {
 			"working": true,
 			"issues": "",
