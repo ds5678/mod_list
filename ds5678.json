@@ -2,6 +2,25 @@
 	"author": "ds5678",
 	"authorURL": "https://github.com/ds5678",
 	"mods": [{
+		"name": "ArcheryTargetPractice",
+		"author": "<a href='https://github.com/MikeyPdog' target='_blank'>MikeyPdog</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
+		"authorURL": "",
+		"version": "2.0.0",
+		"updated": "2021-03-15",
+		"description": "Allows the player to level up their archery skill at the archery target in Pleasant Valley. Only works for levels 1 and 2.<br><br><a href='https://https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+		"modURL": "https://github.com/ds5678/ArcheryTargetPractice",
+		"downloadURL": "https://github.com/ds5678/ArcheryTargetPractice/releases/download/2.0.0/ArcheryTargetPractice.dll",
+		"testedon": {
+			"tldversion": "1.93",
+			"mlversion": "0.2.7"
+		},
+		"dependencies": [],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	},{
 		"name": "ArrowMod",
 		"author": "<a href='https://github.com/ttr' target='_blank'>ttr</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -20,7 +39,7 @@
 			"issues": "",
 			"notes": ""
 		}
-	}, {
+	},{
 		"name": "AssetLoader",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -39,7 +58,7 @@
 			"issues": "",
 			"notes": ""
 		}
-	}, {
+	},{
 		"name": "BeachcombingAdjustments",
 		"version": "1.1",
 		"updated": "2021-01-20",
@@ -56,7 +75,7 @@
 			"issues": "",
 			"notes": ""
 		}
-	}, {
+	},{
 		"name": "Better-Fuel-Management",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -75,7 +94,7 @@
 			"issues": "",
 			"notes": ""
 		}
-	}, {
+	},{
 		"name": "Better-Stacking",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -94,7 +113,7 @@
 			"issues": "",
 			"notes": ""
 		}
-	}, {
+	},{
 		"name": "Better-Water-Management",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -113,7 +132,7 @@
 			"issues": "",
 			"notes": ""
 		}
-	}, {
+	},{
 		"name": "BlanketMod",
 		"version": "1.1",
 		"updated": "2021-01-13",
@@ -130,7 +149,7 @@
 			"issues": "",
 			"notes": ""
 		}
-	}, {
+	},{
 		"name": "BleakBridge",
 		"version": "1.1.0",
 		"updated": "2021-02-08",
@@ -147,7 +166,7 @@
 			"issues": "",
 			"notes": ""
 		}
-	}, {
+	},{
 		"name": "CanneryManufacturing",
 		"version": "1.1",
 		"updated": "2021-01-11",
@@ -164,7 +183,7 @@
 			"issues": "",
 			"notes": ""
 		}
-	}, {
+	},{
 		"name": "Clothing-Pack",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -183,7 +202,7 @@
 			"issues": "",
 			"notes": ""
 		}
-	}, {
+	},{
 		"name": "Coordinates-Grabber",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -202,7 +221,7 @@
 			"issues": "",
 			"notes": ""
 		}
-	}, {
+	},{
 		"name": "CraftingHotkey",
 		"version": "1.0.0",
 		"updated": "2021-03-07",
@@ -219,7 +238,7 @@
 			"issues": "",
 			"notes": ""
 		}
-	}, {
+	},{
 		"name": "CustomWhiteout",
 		"author": "<a href='https://github.com/MikeyPdog' target='_blank'>MikeyPdog</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -238,7 +257,26 @@
 			"issues": "",
 			"notes": ""
 		}
-	}, {
+	},{
+		"name": "DetectionRange",
+		"author": "<a href='https://github.com/AlexTheRegent' target='_blank'>AlexTheRegent</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
+		"authorURL": "",
+		"version": "2.0.0",
+		"updated": "2021-03-15",
+		"description": "Allows the player to change the range at which animals can detect the player.<br><br><a href='https://https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+		"modURL": "https://github.com/ds5678/DetectionRange",
+		"downloadURL": "https://github.com/ds5678/DetectionRange/releases/download/2.0.0/DetectionRange.dll",
+		"testedon": {
+			"tldversion": "1.93",
+			"mlversion": "0.2.7"
+		},
+		"dependencies": ["ModSettings"],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	},{
 		"name": "Disable-Cabin-Fever",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -257,7 +295,7 @@
 			"issues": "",
 			"notes": ""
 		}
-	}, {
+	},{
 		"name": "ForgeBlueprintsMod",
 		"version": "1.1",
 		"updated": "2021-01-13",
@@ -274,7 +312,7 @@
 			"issues": "",
 			"notes": "Conflicts with ArrowMod 1.2"
 		}
-	}, {
+	},{
 		"name": "Food-Pack",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -293,7 +331,7 @@
 			"issues": "",
 			"notes": ""
 		}
-	}, {
+	},{
 		"name": "FurClothingMod",
 		"version": "1.0",
 		"updated": "2021-01-11",
@@ -310,7 +348,7 @@
 			"issues": "",
 			"notes": ""
 		}
-	}, {
+	},{
 		"name": "IncreaseSaveSlotLimit",
 		"author": "<a href='https://github.com/zeobviouslyfakeacc' target='_blank'>zeobviouslyfakeacc</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -329,7 +367,7 @@
 			"issues": "",
 			"notes": ""
 		}
-	}, {
+	},{
 		"name": "KeyboardUtilities",
 		"author": "<a href='https://github.com/sinai-dev' target='_blank'>Sinai</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -348,7 +386,24 @@
 			"issues": "",
 			"notes": ""
 		}
-	}, {
+	},{
+		"name": "LimitlessContainerSpace",
+		"version": "1.0.0",
+		"updated": "2021-03-15",
+		"description": "Raises the capacity on all containers to 10,000 kilograms.<br><br><a href='https://https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+		"modURL": "https://github.com/ds5678/LimitlessContainerSpace",
+		"downloadURL": "https://github.com/ds5678/LimitlessContainerSpace/releases/download/1.0.0/LimitlessContainerSpace.dll",
+		"testedon": {
+			"tldversion": "1.93",
+			"mlversion": "0.2.7"
+		},
+		"dependencies": [],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	},{
 		"name": "Map-Maker-Tools",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -367,7 +422,7 @@
 			"issues": "",
 			"notes": ""
 		}
-	}, {
+	},{
 		"name": "ModComponent",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -386,7 +441,7 @@
 			"issues": "",
 			"notes": ""
 		}
-	}, {
+	},{
 		"name": "RadialMenuUtilities",
 		"version": "1.0.0",
 		"updated": "2021-02-11",
@@ -465,6 +520,63 @@
 		"description": "Lets you level up individual skills faster<br><br><a href='https://https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/Quick-Witted",
 		"downloadURL": "https://github.com/ds5678/Quick-Witted/releases/download/2.0.0/QuickWitted.dll",
+		"testedon": {
+			"tldversion": "1.93",
+			"mlversion": "0.2.7"
+		},
+		"dependencies": ["ModSettings"],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	},{
+		"name": "Toggle-HUD",
+		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
+		"authorURL": "",
+		"version": "3.0.0",
+		"updated": "2021-03-15",
+		"description": "Allows the player to toggle the scent and time-of-day indicators instead of them disappearing after some time.<br><br><a href='https://https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+		"modURL": "https://github.com/ds5678/Toggle-HUD",
+		"downloadURL": "https://github.com/ds5678/Toggle-HUD/releases/download/3.0.0/Toggle-HUD.dll",
+		"testedon": {
+			"tldversion": "1.93",
+			"mlversion": "0.2.7"
+		},
+		"dependencies": [],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	},{
+		"name": "TweakRabbits",
+		"author": "<a href='https://github.com/AlexTheRegent' target='_blank'>AlexTheRegent</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
+		"authorURL": "",
+		"version": "2.0.0",
+		"updated": "2021-03-15",
+		"description": "Allows the player to change the effects of stoning a rabbit.<br><br><a href='https://https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+		"modURL": "https://github.com/ds5678/TweakRabbits",
+		"downloadURL": "https://github.com/ds5678/TweakRabbits/releases/download/2.0.0/TweakRabbits.dll",
+		"testedon": {
+			"tldversion": "1.93",
+			"mlversion": "0.2.7"
+		},
+		"dependencies": ["ModSettings"],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	},{
+		"name": "WeaponCrosshair",
+		"author": "<a href='https://github.com/AlexTheRegent' target='_blank'>AlexTheRegent</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
+		"authorURL": "",
+		"version": "2.0.0",
+		"updated": "2021-03-15",
+		"description": "Allows the player to reenable the crosshair while aiming.<br><br><a href='https://https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+		"modURL": "https://github.com/ds5678/WeaponCrosshair",
+		"downloadURL": "https://github.com/ds5678/WeaponCrosshair/releases/download/2.0.0/WeaponCrosshair.dll",
 		"testedon": {
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
