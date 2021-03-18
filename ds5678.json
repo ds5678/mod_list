@@ -476,6 +476,23 @@
 			"notes": ""
 		}
 	},{
+		"name": "RopeLuck",
+		"version": "1.0.0",
+		"updated": "2021-03-18",
+		"description": "Ropes cannot be taken or deployed. They mystically appear and disappear at random.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+		"modURL": "https://github.com/ds5678/RopeLuck",
+		"downloadURL": "https://github.com/ds5678/RopeLuck/releases/download/1.0.0/RopeLuck.dll",
+		"testedon": {
+			"tldversion": "1.93",
+			"mlversion": "0.2.7"
+		},
+		"dependencies": [],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	},{
 		"name": "Silent-Aurora",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
