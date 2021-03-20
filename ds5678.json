@@ -43,11 +43,11 @@
 		"name": "AssetLoader",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "4.2.0",
-		"updated": "2021-03-12",
+		"version": "4.2.5",
+		"updated": "2021-03-20",
 		"description": "Infrastructure library for The Long Dark, allowing to integrate external assets. Used as a dependency for other mods.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/AssetLoader",
-		"downloadURL": "https://github.com/ds5678/AssetLoader/releases/download/4.2.0/AssetLoader.dll",
+		"downloadURL": "https://github.com/ds5678/AssetLoader/releases/download/4.2.5/AssetLoader.dll",
 		"testedon": {
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
@@ -117,16 +117,35 @@
 		"name": "Better-Water-Management",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "4.0.0",
-		"updated": "2021-02-21",
+		"version": "4.1.0",
+		"updated": "2021-03-20",
 		"description": "Mod improving the way water is managed for The Long Dark.<br><br><a href='https://github.com/ds5678/Better-Water-Management' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/Better-Water-Management",
-		"downloadURL": "https://github.com/ds5678/Better-Water-Management/releases/download/4.0.0/BetterWaterManagement.zip",
+		"downloadURL": "https://github.com/ds5678/Better-Water-Management/releases/latest",
 		"testedon": {
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["AssetLoader","ModComponent","ModSettings"],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	},{
+		"name": "Binoculars",
+		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
+		"authorURL": "",
+		"version": "4.0.0",
+		"updated": "2021-03-20",
+		"description": "Lets you see farther.<br><br><a href='https://github.com/ds5678/Binoculars' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+		"modURL": "https://github.com/ds5678/Binoculars",
+		"downloadURL": "https://github.com/ds5678/Binoculars/releases/latest",
+		"testedon": {
+			"tldversion": "1.93",
+			"mlversion": "0.2.7"
+		},
+		"dependencies": ["AssetLoader","ModComponent"],
 		"status": {
 			"working": true,
 			"issues": "",
@@ -168,16 +187,16 @@
 		}
 	},{
 		"name": "CanneryManufacturing",
-		"version": "1.1",
-		"updated": "2021-01-11",
+		"version": "1.2.0",
+		"updated": "2021-03-20",
 		"description": "Makes Bleak Inlet more useful, especially on Interloper.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/CanneryManufacturing",
-		"downloadURL": "https://github.com/ds5678/CanneryManufacturing/releases/download/1.1/CanneryManufacturing.dll",
+		"downloadURL": "https://github.com/ds5678/CanneryManufacturing/releases/latest",
 		"testedon": {
-			"tldversion": "1.92",
+			"tldversion": "1.93",
 			"mlversion": "0.2.7"
 		},
-		"dependencies": ["ModSettings"],
+		"dependencies": ["AssetLoader","ModComponent","ModSettings"],
 		"status": {
 			"working": true,
 			"issues": "",
@@ -187,11 +206,11 @@
 		"name": "Clothing-Pack",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "4.1.0",
-		"updated": "2021-02-21",
+		"version": "4.2.0",
+		"updated": "2021-03-20",
 		"description": "Introduces several clothing items including a new Beanie Cap.<br><br><a href='https://github.com/ds5678/Clothing-Pack' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/Clothing-Pack",
-		"downloadURL": "https://github.com/ds5678/Clothing-Pack/releases/download/4.1.0/Clothing-Pack.zip",
+		"downloadURL": "https://github.com/ds5678/Clothing-Pack/releases/latest",
 		"testedon": {
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
@@ -296,14 +315,33 @@
 			"notes": ""
 		}
 	},{
+		"name": "Fire-Pack",
+		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
+		"authorURL": "",
+		"version": "4.2.0",
+		"updated": "2021-03-20",
+		"description": "Introduces a bowdrill and an ember box for carrying hot embers.<br><br><a href='https://github.com/ds5678/Fire-Pack' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+		"modURL": "https://github.com/ds5678/Fire-Pack",
+		"downloadURL": "https://github.com/ds5678/Fire-Pack/releases/latest",
+		"testedon": {
+			"tldversion": "1.93",
+			"mlversion": "0.2.7"
+		},
+		"dependencies": ["AssetLoader","ModComponent"],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	},{
 		"name": "ForgeBlueprintsMod",
-		"version": "1.1",
-		"updated": "2021-01-13",
+		"version": "1.2.0",
+		"updated": "2021-03-20",
 		"description": "Adds some blueprints for the forge.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/ForgeBlueprintsMod",
-		"downloadURL": "https://github.com/ds5678/ForgeBlueprintsMod/releases/download/1.1/ForgeBlueprintsMod.dll",
+		"downloadURL": "https://github.com/ds5678/ForgeBlueprintsMod/releases/latest",
 		"testedon": {
-			"tldversion": "1.92",
+			"tldversion": "1.93",
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModSettings"],
@@ -316,33 +354,16 @@
 		"name": "Food-Pack",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "4.1.0",
-		"updated": "2021-02-21",
+		"version": "4.2.0",
+		"updated": "2021-03-20",
 		"description": "Introduces several food items including Hot Cocoa.<br><br><a href='https://github.com/ds5678/Food-Pack' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/Food-Pack",
-		"downloadURL": "https://github.com/ds5678/Food-Pack/releases/download/4.0.0/Food-Pack.zip",
+		"downloadURL": "https://github.com/ds5678/Food-Pack/releases/latest",
 		"testedon": {
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["AssetLoader","ModComponent"],
-		"status": {
-			"working": true,
-			"issues": "",
-			"notes": ""
-		}
-	},{
-		"name": "FurClothingMod",
-		"version": "1.0",
-		"updated": "2021-01-11",
-		"description": "Lets you change fur clothing stats.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-		"modURL": "https://github.com/ds5678/FurClothingMod",
-		"downloadURL": "https://github.com/ds5678/FurClothingMod/releases/download/1.0/FurClothingMod.dll",
-		"testedon": {
-			"tldversion": "1.92",
-			"mlversion": "0.2.7"
-		},
-		"dependencies": ["ModSettings"],
 		"status": {
 			"working": true,
 			"issues": "",
@@ -426,11 +447,11 @@
 		"name": "ModComponent",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "4.1.1",
-		"updated": "2021-02-22",
+		"version": "4.2.0",
+		"updated": "2021-03-20",
 		"description": "Utility Mod; lets you load external item packs.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/ModComponent",
-		"downloadURL": "https://github.com/ds5678/ModComponent/releases/tag/4.1.1",
+		"downloadURL": "https://github.com/ds5678/ModComponent/releases/latest",
 		"testedon": {
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
@@ -460,11 +481,11 @@
 		}
 	},{
 		"name": "RandomizeInterloperRareSpawns",
-		"version": "1.0.0",
+		"version": "1.0.1",
 		"updated": "2021-02-21",
-		"description": "Randomizes the Interloper loot tables. Do not use on existing saves.<br><br><a href='https://github.com/ds5678/RandomizeInterloperRareSpawns' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+		"description": "Disables the Interloper loot tables and replaces them with new random spawns. Do not use on existing saves.<br><br><a href='https://github.com/ds5678/RandomizeInterloperRareSpawns' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/RandomizeInterloperRareSpawns",
-		"downloadURL": "https://github.com/ds5678/RandomizeInterloperRareSpawns/releases/download/1.0.0/RandomizeInterloperRareSpawns.zip",
+		"downloadURL": "https://github.com/ds5678/RandomizeInterloperRareSpawns/releases/latest",
 		"testedon": {
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
@@ -608,11 +629,11 @@
 		"name": "WoodenStatuettes",
 		"author": "<a href='https://github.com/nbakulev' target='_blank'>nbakulev</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "1.2",
-		"updated": "2021-02-03",
+		"version": "1.3.0",
+		"updated": "2021-03-20",
 		"description": "A cozy mod for The Long Dark.<br><br><a href='https://github.com/ds5678/Woodenstatuettes' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/Woodenstatuettes",
-		"downloadURL": "https://github.com/ds5678/Woodenstatuettes/releases/download/1.2/WoodenStatuettesV1.2.zip",
+		"downloadURL": "https://github.com/ds5678/Woodenstatuettes/releases/latest",
 		"testedon": {
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
