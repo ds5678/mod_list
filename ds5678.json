@@ -538,7 +538,7 @@
 		"updated": "2021-03-25",
 		"description": "Lets you sprint up to 30 times faster and control other movement characteristics.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/SonicMode",
-		"downloadURL": "https://github.com/ds5678/SonicMode/releases/download/latest/SonicMode.dll",
+		"downloadURL": "https://github.com/ds5678/SonicMode/releases/download/1.2.0/SonicMode.dll",
 		"testedon": {
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
