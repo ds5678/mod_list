@@ -463,6 +463,25 @@
 			"notes": ""
 		}
 	},{
+		"name": "QuickWitted",
+		"author": "<a href='https://github.com/felipeds' target='_blank'>felipeds</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
+		"authorURL": "",
+		"version": "2.0.0",
+		"updated": "2021-02-10",
+		"description": "Lets you level up individual skills faster<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+		"modURL": "https://github.com/ds5678/Quick-Witted",
+		"downloadURL": "https://github.com/ds5678/Quick-Witted/releases/download/2.0.0/QuickWitted.dll",
+		"testedon": {
+			"tldversion": "1.93",
+			"mlversion": "0.2.7"
+		},
+		"dependencies": ["ModSettings"],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	},{
 		"name": "RadialMenuUtilities",
 		"version": "1.0.0",
 		"updated": "2021-02-11",
@@ -550,14 +569,12 @@
 			"notes": ""
 		}
 	},{
-		"name": "QuickWitted",
-		"author": "<a href='https://github.com/felipeds' target='_blank'>felipeds</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
-		"authorURL": "",
-		"version": "2.0.0",
-		"updated": "2021-02-10",
-		"description": "Lets you level up individual skills faster<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-		"modURL": "https://github.com/ds5678/Quick-Witted",
-		"downloadURL": "https://github.com/ds5678/Quick-Witted/releases/download/2.0.0/QuickWitted.dll",
+		"name": "TimberwolvesAnywhere",
+		"version": "1.0.0",
+		"updated": "2021-03-25",
+		"description": "Allows the user to decide what type of wolves will spawn in a region.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+		"modURL": "https://github.com/ds5678/TimberwolvesAnywhere",
+		"downloadURL": "https://github.com/ds5678/TimberwolvesAnywhere/releases/download/1.0.0/TimberwolvesAnywhere.dll",
 		"testedon": {
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
