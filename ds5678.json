@@ -456,7 +456,7 @@
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
 		},
-		"dependencies": ["AssetLoader"],
+		"dependencies": ["AssetLoader","ModSettings"],
 		"status": {
 			"working": true,
 			"issues": "",
