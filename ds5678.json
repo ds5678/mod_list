@@ -145,7 +145,7 @@
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
 		},
-		"dependencies": ["AssetLoader","ModComponent"],
+		"dependencies": ["AssetLoader","ModComponent","ModSettings"],
 		"status": {
 			"working": true,
 			"issues": "",
@@ -215,7 +215,7 @@
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
 		},
-		"dependencies": ["AssetLoader","ModComponent"],
+		"dependencies": ["AssetLoader","ModComponent","ModSettings"],
 		"status": {
 			"working": true,
 			"issues": "",
@@ -270,25 +270,6 @@
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
 		},
-		"dependencies": [],
-		"status": {
-			"working": true,
-			"issues": "",
-			"notes": ""
-		}
-	},{
-		"name": "DetectionRange",
-		"author": "<a href='https://github.com/AlexTheRegent' target='_blank'>AlexTheRegent</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
-		"authorURL": "",
-		"version": "2.0.0",
-		"updated": "2021-03-15",
-		"description": "Allows the player to change the range at which animals can detect the player.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-		"modURL": "https://github.com/ds5678/DetectionRange",
-		"downloadURL": "https://github.com/ds5678/DetectionRange/releases/download/2.0.0/DetectionRange.dll",
-		"testedon": {
-			"tldversion": "1.93",
-			"mlversion": "0.2.7"
-		},
 		"dependencies": ["ModSettings"],
 		"status": {
 			"working": true,
@@ -318,8 +299,8 @@
 		"name": "Fire-Pack",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "4.2.0",
-		"updated": "2021-03-20",
+		"version": "2.1.0",
+		"updated": "2021-04-01",
 		"description": "Introduces a bowdrill and an ember box for carrying hot embers.<br><br><a href='https://github.com/ds5678/Fire-Pack' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/Fire-Pack",
 		"downloadURL": "https://github.com/ds5678/Fire-Pack/releases/latest",
@@ -327,7 +308,7 @@
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
 		},
-		"dependencies": ["AssetLoader","ModComponent"],
+		"dependencies": ["AssetLoader","ModComponent","ModSettings"],
 		"status": {
 			"working": true,
 			"issues": "",
@@ -363,7 +344,7 @@
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
 		},
-		"dependencies": ["AssetLoader","ModComponent"],
+		"dependencies": ["AssetLoader","ModComponent","ModSettings"],
 		"status": {
 			"working": true,
 			"issues": "",
@@ -509,7 +490,7 @@
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
 		},
-		"dependencies": ["AssetLoader","ModComponent"],
+		"dependencies": ["AssetLoader","ModComponent","ModSettings"],
 		"status": {
 			"working": true,
 			"issues": "",
@@ -552,6 +533,25 @@
 			"notes": ""
 		}
 	},{
+		"name": "SkipIntroRedux",
+		"author": "<a href='https://github.com/AlexTheRegent' target='_blank'>AlexTheRegent</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
+		"authorURL": "",
+		"version": "2.0.0",
+		"updated": "2021-04-01",
+		"description": "Allows the player to skip to the main menu when starting the game.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+		"modURL": "https://github.com/ds5678/SkipIntroRedux",
+		"downloadURL": "https://github.com/ds5678/SkipIntroRedux/releases/download/2.0.0/SkipIntroRedux.dll",
+		"testedon": {
+			"tldversion": "1.93",
+			"mlversion": "0.2.7"
+		},
+		"dependencies": [],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	},{
 		"name": "SonicMode",
 		"version": "1.2.0",
 		"updated": "2021-03-25",
@@ -570,16 +570,35 @@
 		}
 	},{
 		"name": "TimberwolvesAnywhere",
-		"version": "1.0.0",
-		"updated": "2021-03-25",
+		"version": "1.1.0",
+		"updated": "2021-04-01",
 		"description": "Allows the user to decide what type of wolves will spawn in a region.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/TimberwolvesAnywhere",
-		"downloadURL": "https://github.com/ds5678/TimberwolvesAnywhere/releases/download/1.0.0/TimberwolvesAnywhere.dll",
+		"downloadURL": "https://github.com/ds5678/TimberwolvesAnywhere/releases/download/1.1.0/TimberwolvesAnywhere.dll",
 		"testedon": {
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModSettings"],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	},{
+		"name": "TimeAccelerator",
+		"author": "<a href='https://github.com/AlexTheRegent' target='_blank'>AlexTheRegent</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
+		"authorURL": "",
+		"version": "2.0.0",
+		"updated": "2021-04-01",
+		"description": "Allows the player to speed up time without changing the game difficulty.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+		"modURL": "https://github.com/ds5678/TimeAccelerator",
+		"downloadURL": "https://github.com/ds5678/TimeAccelerator/releases/download/2.0.0/TimeAccelerator.dll",
+		"testedon": {
+			"tldversion": "1.93",
+			"mlversion": "0.2.7"
+		},
+		"dependencies": ["ModSettings","KeyboardUtilities"],
 		"status": {
 			"working": true,
 			"issues": "",
@@ -589,35 +608,16 @@
 		"name": "Toggle-HUD",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "3.0.0",
-		"updated": "2021-03-15",
+		"version": "3.1.0",
+		"updated": "2021-04-01",
 		"description": "Allows the player to toggle the scent and time-of-day indicators instead of them disappearing after some time.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/Toggle-HUD",
-		"downloadURL": "https://github.com/ds5678/Toggle-HUD/releases/download/3.0.0/Toggle-HUD.dll",
+		"downloadURL": "https://github.com/ds5678/Toggle-HUD/releases/download/3.1.0/Toggle-HUD.dll",
 		"testedon": {
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
 		},
 		"dependencies": [],
-		"status": {
-			"working": true,
-			"issues": "",
-			"notes": ""
-		}
-	},{
-		"name": "TweakRabbits",
-		"author": "<a href='https://github.com/AlexTheRegent' target='_blank'>AlexTheRegent</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
-		"authorURL": "",
-		"version": "2.0.0",
-		"updated": "2021-03-15",
-		"description": "Allows the player to change the effects of stoning a rabbit.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-		"modURL": "https://github.com/ds5678/TweakRabbits",
-		"downloadURL": "https://github.com/ds5678/TweakRabbits/releases/download/2.0.0/TweakRabbits.dll",
-		"testedon": {
-			"tldversion": "1.93",
-			"mlversion": "0.2.7"
-		},
-		"dependencies": ["ModSettings"],
 		"status": {
 			"working": true,
 			"issues": "",
@@ -655,7 +655,7 @@
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
 		},
-		"dependencies": ["AssetLoader","ModComponent"],
+		"dependencies": ["AssetLoader","ModComponent","ModSettings"],
 		"status": {
 			"working": true,
 			"issues": "",
