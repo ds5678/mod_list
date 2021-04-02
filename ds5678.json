@@ -315,23 +315,6 @@
 			"notes": ""
 		}
 	},{
-		"name": "ForgeBlueprintsMod",
-		"version": "1.2.0",
-		"updated": "2021-03-20",
-		"description": "Adds some blueprints for the forge.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-		"modURL": "https://github.com/ds5678/ForgeBlueprintsMod",
-		"downloadURL": "https://github.com/ds5678/ForgeBlueprintsMod/releases/latest",
-		"testedon": {
-			"tldversion": "1.93",
-			"mlversion": "0.2.7"
-		},
-		"dependencies": ["ModSettings"],
-		"status": {
-			"working": true,
-			"issues": "",
-			"notes": "Conflicts with ArrowMod 1.2"
-		}
-	},{
 		"name": "Food-Pack",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -349,6 +332,23 @@
 			"working": true,
 			"issues": "",
 			"notes": ""
+		}
+	},{
+		"name": "ForgeBlueprintsMod",
+		"version": "1.3.0",
+		"updated": "2021-04-01",
+		"description": "Adds some blueprints for the forge.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+		"modURL": "https://github.com/ds5678/ForgeBlueprintsMod",
+		"downloadURL": "https://github.com/ds5678/ForgeBlueprintsMod/releases/latest",
+		"testedon": {
+			"tldversion": "1.93",
+			"mlversion": "0.2.7"
+		},
+		"dependencies": ["AssetLoader","ModComponent","ModSettings"],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": "Conflicts with ArrowMod 1.2"
 		}
 	},{
 		"name": "IncreaseSaveSlotLimit",
