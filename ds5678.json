@@ -624,6 +624,25 @@
 			"notes": ""
 		}
 	},{
+		"name": "TLD-Bugfixes",
+		"author": "<a href='https://github.com/zeobviouslyfakeacc' target='_blank'>zeobviouslyfakeacc</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
+		"authorURL": "",
+		"version": "2.0.0",
+		"updated": "2021-04-03",
+		"description": "This mod fixes some old bugs and known exploits in *The Long Dark*.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+		"modURL": "https://github.com/ds5678/TLD-Bugfixes",
+		"downloadURL": "https://github.com/ds5678/TLD-Bugfixes/releases/download/2.0.0/TLD-Bugfixes.dll",
+		"testedon": {
+			"tldversion": "1.93",
+			"mlversion": "0.2.7"
+		},
+		"dependencies": [],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	},{
 		"name": "Toggle-HUD",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
