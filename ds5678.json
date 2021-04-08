@@ -627,11 +627,11 @@
 		"name": "TimeAccelerator",
 		"author": "<a href='https://github.com/AlexTheRegent' target='_blank'>AlexTheRegent</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "2.0.1",
-		"updated": "2021-04-01",
+		"version": "2.0.2",
+		"updated": "2021-04-08",
 		"description": "Allows the player to speed up time without changing the game difficulty.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/TimeAccelerator",
-		"downloadURL": "https://github.com/ds5678/TimeAccelerator/releases/download/2.0.1/TimeAccelerator.dll",
+		"downloadURL": "https://github.com/ds5678/TimeAccelerator/releases/download/2.0.2/TimeAccelerator.dll",
 		"testedon": {
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
