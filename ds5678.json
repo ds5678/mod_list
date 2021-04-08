@@ -133,6 +133,25 @@
 			"notes": ""
 		}
 	},{
+		"name": "BetterMendingXP",
+		"author": "<a href='https://github.com/MikeyPdog' target='_blank'>MikeyPdog</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
+		"authorURL": "",
+		"version": "4.0.0",
+		"updated": "2021-04-08",
+		"description": "Modifies the Mending System to give skill points for crafting.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+		"modURL": "https://github.com/ds5678/BetterMendingXP",
+		"downloadURL": "https://github.com/ds5678/BetterMendingXP/releases/download/4.0.0/BetterMendingXP.dll",
+		"testedon": {
+			"tldversion": "1.93",
+			"mlversion": "0.2.7"
+		},
+		"dependencies": ["ModSettings"],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	},{
 		"name": "Binoculars",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -373,11 +392,11 @@
 		"name": "KeyboardUtilities",
 		"author": "<a href='https://github.com/sinai-dev' target='_blank'>Sinai</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "1.2.0",
-		"updated": "2021-02-21",
+		"version": "1.2.1",
+		"updated": "2021-04-08",
 		"description": "A utility mod that enables other mods to more easily use keyboard and mouse input.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/KeyboardUtilities",
-		"downloadURL": "https://github.com/ds5678/KeyboardUtilities/releases/download/1.2.0/KeyboardUtilities.dll",
+		"downloadURL": "https://github.com/ds5678/KeyboardUtilities/releases/download/1.2.1/KeyboardUtilities.dll",
 		"testedon": {
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
