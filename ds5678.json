@@ -81,7 +81,7 @@
 		"authorURL": "",
 		"version": "4.1.0",
 		"updated": "2021-04-09",
-		"description": "Makes kerosene management more realistic.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+		"description": "Makes kerosene management more realistic.<br><br><a href='https://github.com/ds5678/Better-Fuel-Management' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/Better-Fuel-Management",
 		"downloadURL": "https://github.com/ds5678/Better-Fuel-Management/releases/latest",
 		"testedon": {
@@ -227,7 +227,7 @@
 		"name": "CanneryManufacturing",
 		"version": "1.3.0",
 		"updated": "2021-04-09",
-		"description": "Makes Bleak Inlet more useful, especially on Interloper.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+		"description": "Makes Bleak Inlet more useful, especially on Interloper.<br><br><a href='https://github.com/ds5678/CanneryManufacturing' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/CanneryManufacturing",
 		"downloadURL": "https://github.com/ds5678/CanneryManufacturing/releases/latest",
 		"testedon": {
@@ -375,7 +375,7 @@
 		"name": "ForgeBlueprintsMod",
 		"version": "1.3.1",
 		"updated": "2021-04-09",
-		"description": "Adds some blueprints for the forge.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+		"description": "Adds some blueprints for the forge.<br><br><a href='https://github.com/ds5678/ForgeBlueprintsMod' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/ForgeBlueprintsMod",
 		"downloadURL": "https://github.com/ds5678/ForgeBlueprintsMod/releases/latest",
 		"testedon": {
@@ -487,7 +487,7 @@
 		"updated": "2021-04-09",
 		"description": "Utility Mod; lets you load external item packs.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/ModComponent",
-		"downloadURL": "https://github.com/ds5678/ModComponent/releases/latest",
+		"downloadURL": "https://github.com/ds5678/ModComponent/releases/download/4.4.0/ModComponent.dll",
 		"testedon": {
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
@@ -684,7 +684,7 @@
 		"authorURL": "",
 		"version": "2.0.0",
 		"updated": "2021-04-03",
-		"description": "This mod fixes some old bugs and known exploits in *The Long Dark*.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+		"description": "This mod fixes some old bugs and known exploits in *The Long Dark*.<br><br><a href='https://github.com/ds5678/TLD-Bugfixes' target='_blank'>Bugfixes</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/TLD-Bugfixes",
 		"downloadURL": "https://github.com/ds5678/TLD-Bugfixes/releases/download/2.0.0/TLD-Bugfixes.dll",
 		"testedon": {
