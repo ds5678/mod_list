@@ -281,10 +281,10 @@
 	},{
 		"name": "CraftingHotkey",
 		"version": "1.0.0",
-		"updated": "2021-03-07",
+		"updated": "2021-04-12",
 		"description": "Add a hotkey for the crafting menu.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/CraftingHotkey",
-		"downloadURL": "https://github.com/ds5678/CraftingHotkey/releases/download/1.0.0/CraftingHotkey.dll",
+		"downloadURL": "https://github.com/ds5678/CraftingHotkey/releases/download/1.1.0/CraftingHotkey.dll",
 		"testedon": {
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
@@ -395,7 +395,7 @@
 		"version": "1.1",
 		"updated": "2021-01-14",
 		"description": "Increases the save slot limit to 999 instead of the default 25.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-		"modURL": "https://github.com/ds5678/Better-Stacking",
+		"modURL": "https://github.com/ds5678/IncreaseSaveSlotLimit",
 		"downloadURL": "https://github.com/ds5678/IncreaseSaveSlotLimit/releases/download/1.1/IncreaseSaveSlotLimit.dll",
 		"testedon": {
 			"tldversion": "1.92",
@@ -576,7 +576,7 @@
 		"updated": "2021-04-02",
 		"description": "Displays the player icon on the map like in story mode.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/Show-Map-Location",
-		"downloadURL": "https://github.com/ds5678/Disable-Cabin-Fever/releases/download/4.0.0/Show-Map-Location.dll",
+		"downloadURL": "https://github.com/ds5678/Show-Map-Location/releases/download/4.0.0/Show-Map-Location.dll",
 		"testedon": {
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
@@ -663,11 +663,11 @@
 		"name": "TimeAccelerator",
 		"author": "<a href='https://github.com/AlexTheRegent' target='_blank'>AlexTheRegent</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "2.0.2",
-		"updated": "2021-04-08",
+		"version": "2.1.0",
+		"updated": "2021-04-12",
 		"description": "Allows the player to speed up time without changing the game difficulty.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/TimeAccelerator",
-		"downloadURL": "https://github.com/ds5678/TimeAccelerator/releases/download/2.0.2/TimeAccelerator.dll",
+		"downloadURL": "https://github.com/ds5678/TimeAccelerator/releases/download/2.1.0/TimeAccelerator.dll",
 		"testedon": {
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
