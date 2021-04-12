@@ -280,7 +280,7 @@
 		}
 	},{
 		"name": "CraftingHotkey",
-		"version": "1.0.0",
+		"version": "1.1.0",
 		"updated": "2021-04-12",
 		"description": "Add a hotkey for the crafting menu.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/CraftingHotkey",
