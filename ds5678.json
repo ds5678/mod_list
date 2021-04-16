@@ -209,7 +209,7 @@
 	},{
 		"name": "BleakBridge",
 		"version": "1.2.0",
-		"updated": "2021-02-08",
+		"updated": "2021-04-16",
 		"description": "Add a bridge to the Cannery Workshop.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/BleakBridge",
 		"downloadURL": "https://github.com/ds5678/BleakBridge/releases/download/1.2.0/BleakBridge.dll",
