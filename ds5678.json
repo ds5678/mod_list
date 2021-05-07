@@ -40,25 +40,6 @@
 			"notes": ""
 		}
 	},{
-		"name": "AssetLoader",
-		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
-		"authorURL": "",
-		"version": "4.4.0",
-		"updated": "2021-04-09",
-		"description": "Infrastructure library for The Long Dark, allowing to integrate external assets. Used as a dependency for other mods.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-		"modURL": "https://github.com/ds5678/AssetLoader",
-		"downloadURL": "https://github.com/ds5678/AssetLoader/releases/download/4.4.0/AssetLoader.dll",
-		"testedon": {
-			"tldversion": "1.93",
-			"mlversion": "0.2.7"
-		},
-		"dependencies": [],
-		"status": {
-			"working": true,
-			"issues": "",
-			"notes": ""
-		}
-	},{
 		"name": "BeachcombingAdjustments",
 		"version": "1.1",
 		"updated": "2021-01-20",
@@ -88,7 +69,7 @@
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
 		},
-		"dependencies": ["AssetLoader","ModComponent","ModSettings","KeyboardUtilities","RadialMenuUtilities"],
+		"dependencies": ["ModComponent","ModSettings","KeyboardUtilities","RadialMenuUtilities"],
 		"status": {
 			"working": true,
 			"issues": "",
@@ -145,7 +126,7 @@
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
 		},
-		"dependencies": ["AssetLoader","ModComponent","ModSettings"],
+		"dependencies": ["ModComponent","ModSettings"],
 		"status": {
 			"working": true,
 			"issues": "",
@@ -174,16 +155,16 @@
 		"name": "Binoculars",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "4.1.0",
-		"updated": "2021-04-09",
+		"version": "4.2.0",
+		"updated": "2021-05-07",
 		"description": "Lets you see farther.<br><br><a href='https://github.com/ds5678/Binoculars' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/Binoculars",
 		"downloadURL": "https://github.com/ds5678/Binoculars/releases/latest",
 		"testedon": {
-			"tldversion": "1.93",
+			"tldversion": "1.94",
 			"mlversion": "0.2.7"
 		},
-		"dependencies": ["AssetLoader","ModComponent","ModSettings"],
+		"dependencies": ["ModComponent","ModSettings"],
 		"status": {
 			"working": true,
 			"issues": "",
@@ -225,16 +206,16 @@
 		}
 	},{
 		"name": "CanneryManufacturing",
-		"version": "1.3.0",
-		"updated": "2021-04-09",
+		"version": "1.3.1",
+		"updated": "2021-05-07",
 		"description": "Makes Bleak Inlet more useful, especially on Interloper.<br><br><a href='https://github.com/ds5678/CanneryManufacturing' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/CanneryManufacturing",
 		"downloadURL": "https://github.com/ds5678/CanneryManufacturing/releases/latest",
 		"testedon": {
-			"tldversion": "1.93",
+			"tldversion": "1.94",
 			"mlversion": "0.2.7"
 		},
-		"dependencies": ["AssetLoader","ModComponent","ModSettings"],
+		"dependencies": ["ModComponent","ModSettings"],
 		"status": {
 			"working": true,
 			"issues": "",
@@ -253,7 +234,7 @@
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
 		},
-		"dependencies": ["AssetLoader","ModComponent","ModSettings"],
+		"dependencies": ["ModComponent","ModSettings"],
 		"status": {
 			"working": true,
 			"issues": "",
@@ -263,13 +244,13 @@
 		"name": "Coordinates-Grabber",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "4.1.0",
-		"updated": "2021-02-21",
+		"version": "4.2.0",
+		"updated": "2021-05-07",
 		"description": "Utility mod. Allows you to see/copy the name, position, rotation, and scene of interactive items.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/Coordinates-Grabber",
-		"downloadURL": "https://github.com/ds5678/Coordinates-Grabber/releases/download/4.1.0/Coordinates-Grabber.dll",
+		"downloadURL": "https://github.com/ds5678/Coordinates-Grabber/releases/download/4.2.0/Coordinates-Grabber.dll",
 		"testedon": {
-			"tldversion": "1.93",
+			"tldversion": "1.94",
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["KeyboardUtilities","ModSettings"],
@@ -315,7 +296,7 @@
 			"notes": ""
 		}
 	},{
-		"name": "Disable-Cabin-Fever",
+		"name": "DisableCabinFever",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
 		"version": "4.0.0",
@@ -337,16 +318,16 @@
 		"name": "Fire-Pack",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "2.2.1",
-		"updated": "2021-04-16",
+		"version": "2.3.0",
+		"updated": "2021-05-07",
 		"description": "Introduces a bowdrill and an ember box for carrying hot embers.<br><br><a href='https://github.com/ds5678/Fire-Pack' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/Fire-Pack",
 		"downloadURL": "https://github.com/ds5678/Fire-Pack/releases/latest",
 		"testedon": {
-			"tldversion": "1.93",
+			"tldversion": "1.94",
 			"mlversion": "0.2.7"
 		},
-		"dependencies": ["AssetLoader","ModComponent","ModSettings"],
+		"dependencies": ["ModComponent","ModSettings"],
 		"status": {
 			"working": true,
 			"issues": "",
@@ -365,7 +346,7 @@
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
 		},
-		"dependencies": ["AssetLoader","ModComponent","ModSettings"],
+		"dependencies": ["ModComponent","ModSettings"],
 		"status": {
 			"working": true,
 			"issues": "",
@@ -382,7 +363,7 @@
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
 		},
-		"dependencies": ["AssetLoader","ModComponent","ModSettings"],
+		"dependencies": ["ModComponent","ModSettings"],
 		"status": {
 			"working": true,
 			"issues": "",
@@ -418,7 +399,7 @@
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
 		},
-		"dependencies": ["AssetLoader","ModComponent","ModSettings"],
+		"dependencies": ["ModComponent","ModSettings"],
 		"status": {
 			"working": true,
 			"issues": "",
@@ -483,16 +464,33 @@
 		"name": "ModComponent",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "4.4.0",
-		"updated": "2021-04-09",
-		"description": "Utility Mod; lets you load external item packs.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+		"version": "4.5.0",
+		"updated": "2021-05-07",
+		"description": "Utility Mod; lets you load external item packs. Delete AssetLoader!<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/ModComponent",
-		"downloadURL": "https://github.com/ds5678/ModComponent/releases/download/4.4.0/ModComponent.dll",
+		"downloadURL": "https://github.com/ds5678/ModComponent/releases/download/4.5.0/ModComponent.dll",
 		"testedon": {
-			"tldversion": "1.93",
+			"tldversion": "1.94",
 			"mlversion": "0.2.7"
 		},
-		"dependencies": ["AssetLoader","ModSettings"],
+		"dependencies": ["ModSettings"],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	},{
+		"name": "MoreWorkbenches",
+		"version": "1.0.0",
+		"updated": "2021-05-07",
+		"description": "Adds a few more workbenches to the game.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+		"modURL": "https://github.com/ds5678/MoreWorkbenches",
+		"downloadURL": "https://github.com/ds5678/MoreWorkbenches/releases/download/1.0.0/MoreWorkbenches.dll",
+		"testedon": {
+			"tldversion": "1.94",
+			"mlversion": "0.2.7"
+		},
+		"dependencies": ["ModComponent","ModSettings"],
 		"status": {
 			"working": true,
 			"issues": "",
@@ -545,7 +543,7 @@
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
 		},
-		"dependencies": ["AssetLoader","ModComponent","ModSettings"],
+		"dependencies": ["ModComponent","ModSettings"],
 		"status": {
 			"working": true,
 			"issues": "",
@@ -748,7 +746,7 @@
 			"tldversion": "1.93",
 			"mlversion": "0.2.7"
 		},
-		"dependencies": ["AssetLoader","ModComponent","ModSettings"],
+		"dependencies": ["ModComponent","ModSettings"],
 		"status": {
 			"working": true,
 			"issues": "",
