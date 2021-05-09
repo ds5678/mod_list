@@ -337,13 +337,13 @@
 		"name": "Food-Pack",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "4.3.0",
-		"updated": "2021-04-09",
-		"description": "Introduces several food items including Hot Cocoa.<br><br><a href='https://github.com/ds5678/Food-Pack' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+		"version": "4.4.0",
+		"updated": "2021-05-09",
+		"description": "Introduces 33 new food items.<br><br><a href='https://github.com/ds5678/Food-Pack' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/Food-Pack",
 		"downloadURL": "https://github.com/ds5678/Food-Pack/releases/latest",
 		"testedon": {
-			"tldversion": "1.93",
+			"tldversion": "1.94",
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModComponent","ModSettings"],
