@@ -244,11 +244,11 @@
 		"name": "Coordinates-Grabber",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "4.2.0",
-		"updated": "2021-05-07",
+		"version": "4.2.1",
+		"updated": "2021-05-13",
 		"description": "Utility mod. Allows you to see/copy the name, position, rotation, and scene of interactive items.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/Coordinates-Grabber",
-		"downloadURL": "https://github.com/ds5678/Coordinates-Grabber/releases/download/4.2.0/Coordinates-Grabber.dll",
+		"downloadURL": "https://github.com/ds5678/Coordinates-Grabber/releases/download/4.2.1/Coordinates-Grabber.dll",
 		"testedon": {
 			"tldversion": "1.94",
 			"mlversion": "0.2.7"
@@ -409,13 +409,13 @@
 		"name": "KeyboardUtilities",
 		"author": "<a href='https://github.com/sinai-dev' target='_blank'>Sinai</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "1.2.1",
-		"updated": "2021-04-08",
+		"version": "1.3.0",
+		"updated": "2021-05-13",
 		"description": "A utility mod that enables other mods to more easily use keyboard and mouse input.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/KeyboardUtilities",
-		"downloadURL": "https://github.com/ds5678/KeyboardUtilities/releases/download/1.2.1/KeyboardUtilities.dll",
+		"downloadURL": "https://github.com/ds5678/KeyboardUtilities/releases/download/1.3.0/KeyboardUtilities.dll",
 		"testedon": {
-			"tldversion": "1.93",
+			"tldversion": "1.94",
 			"mlversion": "0.2.7"
 		},
 		"dependencies": [],
