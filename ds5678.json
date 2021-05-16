@@ -76,6 +76,25 @@
 			"notes": ""
 		}
 	},{
+		"name": "BetterMendingXP",
+		"author": "<a href='https://github.com/MikeyPdog' target='_blank'>MikeyPdog</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
+		"authorURL": "",
+		"version": "4.0.0",
+		"updated": "2021-04-08",
+		"description": "Modifies the Mending System to give skill points for crafting.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+		"modURL": "https://github.com/ds5678/BetterMendingXP",
+		"downloadURL": "https://github.com/ds5678/BetterMendingXP/releases/download/4.0.0/BetterMendingXP.dll",
+		"testedon": {
+			"tldversion": "1.93",
+			"mlversion": "0.2.7"
+		},
+		"dependencies": ["ModSettings"],
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	},{
 		"name": "Better-Night-Sky",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -117,13 +136,13 @@
 		"name": "Better-Water-Management",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "4.2.0",
-		"updated": "2021-04-09",
+		"version": "4.3.0",
+		"updated": "2021-05-16",
 		"description": "Mod improving the way water is managed for The Long Dark.<br><br><a href='https://github.com/ds5678/Better-Water-Management' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/Better-Water-Management",
 		"downloadURL": "https://github.com/ds5678/Better-Water-Management/releases/latest",
 		"testedon": {
-			"tldversion": "1.93",
+			"tldversion": "1.94",
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModComponent","ModSettings"],
@@ -133,30 +152,11 @@
 			"notes": ""
 		}
 	},{
-		"name": "BetterMendingXP",
-		"author": "<a href='https://github.com/MikeyPdog' target='_blank'>MikeyPdog</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
-		"authorURL": "",
-		"version": "4.0.0",
-		"updated": "2021-04-08",
-		"description": "Modifies the Mending System to give skill points for crafting.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-		"modURL": "https://github.com/ds5678/BetterMendingXP",
-		"downloadURL": "https://github.com/ds5678/BetterMendingXP/releases/download/4.0.0/BetterMendingXP.dll",
-		"testedon": {
-			"tldversion": "1.93",
-			"mlversion": "0.2.7"
-		},
-		"dependencies": ["ModSettings"],
-		"status": {
-			"working": true,
-			"issues": "",
-			"notes": ""
-		}
-	},{
 		"name": "Binoculars",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "4.2.0",
-		"updated": "2021-05-07",
+		"version": "4.3.0",
+		"updated": "2021-05-16",
 		"description": "Lets you see farther.<br><br><a href='https://github.com/ds5678/Binoculars' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/Binoculars",
 		"downloadURL": "https://github.com/ds5678/Binoculars/releases/latest",
@@ -172,16 +172,16 @@
 		}
 	},{
 		"name": "BlanketMod",
-		"version": "1.1",
-		"updated": "2021-01-13",
+		"version": "1.2.0",
+		"updated": "2021-05-16",
 		"description": "Add a warm blanket to the game. Also adds bedroll crafting.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/BlanketMod",
-		"downloadURL": "https://github.com/ds5678/BlanketMod/releases/download/1.1/BlanketMod.dll",
+		"downloadURL": "https://github.com/ds5678/BlanketMod/releases/latest",
 		"testedon": {
-			"tldversion": "1.92",
+			"tldversion": "1.94",
 			"mlversion": "0.2.7"
 		},
-		"dependencies": ["ModSettings"],
+		"dependencies": ["ModComponent","ModSettings"],
 		"status": {
 			"working": true,
 			"issues": "",
@@ -206,8 +206,8 @@
 		}
 	},{
 		"name": "CanneryManufacturing",
-		"version": "1.3.1",
-		"updated": "2021-05-07",
+		"version": "1.3.2",
+		"updated": "2021-05-16",
 		"description": "Makes Bleak Inlet more useful, especially on Interloper.<br><br><a href='https://github.com/ds5678/CanneryManufacturing' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/CanneryManufacturing",
 		"downloadURL": "https://github.com/ds5678/CanneryManufacturing/releases/latest",
@@ -354,13 +354,13 @@
 		}
 	},{
 		"name": "ForgeBlueprintsMod",
-		"version": "1.3.1",
-		"updated": "2021-04-09",
+		"version": "1.4.0",
+		"updated": "2021-05-16",
 		"description": "Adds some blueprints for the forge.<br><br><a href='https://github.com/ds5678/ForgeBlueprintsMod' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/ForgeBlueprintsMod",
 		"downloadURL": "https://github.com/ds5678/ForgeBlueprintsMod/releases/latest",
 		"testedon": {
-			"tldversion": "1.93",
+			"tldversion": "1.94",
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModComponent","ModSettings"],
@@ -390,13 +390,13 @@
 		}
 	},{
 		"name": "InfinityFires",
-		"version": "1.0.0",
-		"updated": "2021-04-09",
+		"version": "1.0.1",
+		"updated": "2021-05-16",
 		"description": "Right click on a fire to make it last forever.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/InfinityFires",
-		"downloadURL": "https://github.com/ds5678/InfinityFires/releases/download/1.0.0/InfinityFires.dll",
+		"downloadURL": "https://github.com/ds5678/InfinityFires/releases/download/1.0.1/InfinityFires.dll",
 		"testedon": {
-			"tldversion": "1.93",
+			"tldversion": "1.94",
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModComponent","ModSettings"],
@@ -464,11 +464,11 @@
 		"name": "ModComponent",
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "4.5.0",
-		"updated": "2021-05-07",
+		"version": "4.5.1",
+		"updated": "2021-05-16",
 		"description": "Utility Mod; lets you load external item packs. Delete AssetLoader!<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/ModComponent",
-		"downloadURL": "https://github.com/ds5678/ModComponent/releases/download/4.5.0/ModComponent.dll",
+		"downloadURL": "https://github.com/ds5678/ModComponent/releases/download/4.5.1/ModComponent.dll",
 		"testedon": {
 			"tldversion": "1.94",
 			"mlversion": "0.2.7"
@@ -608,13 +608,13 @@
 		"name": "SkipIntroRedux",
 		"author": "<a href='https://github.com/AlexTheRegent' target='_blank'>AlexTheRegent</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "2.0.0",
-		"updated": "2021-04-01",
+		"version": "2.1.0",
+		"updated": "2021-05-16",
 		"description": "Allows the player to skip to the main menu when starting the game.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/SkipIntroRedux",
-		"downloadURL": "https://github.com/ds5678/SkipIntroRedux/releases/download/2.0.0/SkipIntroRedux.dll",
+		"downloadURL": "https://github.com/ds5678/SkipIntroRedux/releases/download/2.1.0/SkipIntroRedux.dll",
 		"testedon": {
-			"tldversion": "1.93",
+			"tldversion": "1.94",
 			"mlversion": "0.2.7"
 		},
 		"dependencies": [],
