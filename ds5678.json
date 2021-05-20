@@ -3,6 +3,7 @@
 	"authorURL": "https://github.com/ds5678",
 	"mods": [{
 		"name": "ArcheryTargetPractice",
+		"aliases":[],
 		"author": "<a href='https://github.com/MikeyPdog' target='_blank'>MikeyPdog</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
 		"version": "2.0.0",
@@ -15,25 +16,10 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": [],
-		"status": {
-			"working": true,
-			"issues": "",
-			"notes": ""
-		}
-	},{
-		"name": "ArrowMod",
-		"author": "<a href='https://github.com/ttr' target='_blank'>ttr</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
-		"authorURL": "",
-		"version": "1.3",
-		"updated": "2021-01-21",
-		"description": "Allows the player to change the duration of crafting arrows and arrowheads. Also adds the option to use line for arrow crafting (for realism).",
-		"modURL": "https://github.com/ds5678/tld-ArrowMod",
-		"downloadURL": "https://github.com/ds5678/tld-ArrowMod/releases/download/1.3/ArrowMod.dll",
-		"testedon": {
-			"tldversion": "1.93",
-			"mlversion": "0.2.7"
+		"updater":{
+			"enable":true,
+			"downloads":[]
 		},
-		"dependencies": ["ModSettings"],
 		"status": {
 			"working": true,
 			"issues": "",
@@ -41,6 +27,7 @@
 		}
 	},{
 		"name": "BeachcombingAdjustments",
+		"aliases":[],
 		"version": "1.1",
 		"updated": "2021-01-20",
 		"description": "Lets you change the loot table for beachcombing.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
@@ -51,6 +38,10 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModSettings"],
+		"updater":{
+			"enable":true,
+			"downloads":[]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
@@ -58,6 +49,7 @@
 		}
 	},{
 		"name": "Better-Fuel-Management",
+		"aliases":["BetterFuelManagement"],
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
 		"version": "4.1.0",
@@ -70,6 +62,13 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModComponent","ModSettings","KeyboardUtilities","RadialMenuUtilities"],
+		"updater":{
+			"enable":true,
+			"downloads":[
+				"https://github.com/ds5678/Better-Fuel-Management/releases/download/4.1.0/Better-Fuel-Management.dll",
+				"https://github.com/ds5678/Better-Fuel-Management/releases/download/4.1.0/Better-Fuel-Management.modcomponent"
+			]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
@@ -77,6 +76,7 @@
 		}
 	},{
 		"name": "BetterMendingXP",
+		"aliases":[],
 		"author": "<a href='https://github.com/MikeyPdog' target='_blank'>MikeyPdog</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
 		"version": "4.0.0",
@@ -89,6 +89,10 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModSettings"],
+		"updater":{
+			"enable":true,
+			"downloads":[]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
@@ -96,6 +100,7 @@
 		}
 	},{
 		"name": "Better-Night-Sky",
+		"aliases":[],
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
 		"version": "4.0.0",
@@ -108,13 +113,18 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModSettings"],
+		"updater":{
+			"enable":true,
+			"downloads":[]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
 			"notes": ""
 		}
 	},{
-		"name": "BetterStacking",
+		"name": "Better-Stacking",
+		"aliases":["BetterStacking"],
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
 		"version": "4.1.0",
@@ -127,6 +137,10 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": [],
+		"updater":{
+			"enable":true,
+			"downloads":[]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
@@ -134,6 +148,7 @@
 		}
 	},{
 		"name": "Better-Water-Management",
+		"aliases":["BetterWaterManagement"],
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
 		"version": "4.3.0",
@@ -146,6 +161,13 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModComponent","ModSettings"],
+		"updater":{
+			"enable":true,
+			"downloads":[
+				"https://github.com/ds5678/Better-Water-Management/releases/download/4.3.0/Better-Water-Management.dll",
+				"https://github.com/ds5678/Better-Water-Management/releases/download/4.3.0/Better-Water-Management.modcomponent"
+			]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
@@ -153,6 +175,7 @@
 		}
 	},{
 		"name": "Binoculars",
+		"aliases":[],
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
 		"version": "4.3.0",
@@ -165,6 +188,13 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModComponent","ModSettings"],
+		"updater":{
+			"enable":true,
+			"downloads":[
+				"https://github.com/ds5678/Binoculars/releases/download/4.3.0/Binoculars.dll",
+				"https://github.com/ds5678/Binoculars/releases/download/4.3.0/Binoculars.modcomponent"
+			]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
@@ -172,6 +202,7 @@
 		}
 	},{
 		"name": "BlanketMod",
+		"aliases":[],
 		"version": "1.2.0",
 		"updated": "2021-05-16",
 		"description": "Add a warm blanket to the game. Also adds bedroll crafting.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
@@ -182,6 +213,13 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModComponent","ModSettings"],
+		"updater":{
+			"enable":true,
+			"downloads":[
+				"https://github.com/ds5678/BlanketMod/releases/download/1.2.0/BlanketMod.dll",
+				"https://github.com/ds5678/BlanketMod/releases/download/1.2.0/BlanketMod.modcomponent"
+			]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
@@ -189,6 +227,7 @@
 		}
 	},{
 		"name": "BleakBridge",
+		"aliases":[],
 		"version": "1.2.0",
 		"updated": "2021-04-16",
 		"description": "Add a bridge to the Cannery Workshop.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
@@ -199,6 +238,10 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": [],
+		"updater":{
+			"enable":true,
+			"downloads":[]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
@@ -206,6 +249,7 @@
 		}
 	},{
 		"name": "CanneryManufacturing",
+		"aliases":[],
 		"version": "1.3.2",
 		"updated": "2021-05-16",
 		"description": "Makes Bleak Inlet more useful, especially on Interloper.<br><br><a href='https://github.com/ds5678/CanneryManufacturing' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
@@ -216,6 +260,13 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModComponent","ModSettings"],
+		"updater":{
+			"enable":true,
+			"downloads":[
+				"https://github.com/ds5678/CanneryManufacturing/releases/download/1.3.2/CanneryManufacturing.dll",
+				"https://github.com/ds5678/CanneryManufacturing/releases/download/1.3.2/CanneryManufacturing.modcomponent"
+			]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
@@ -223,6 +274,7 @@
 		}
 	},{
 		"name": "Clothing-Pack",
+		"aliases":[],
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
 		"version": "4.3.0",
@@ -235,6 +287,13 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModComponent","ModSettings"],
+		"updater":{
+			"enable":true,
+			"downloads":[
+				"https://github.com/ds5678/Clothing-Pack/releases/download/4.3.0/Clothing-Pack.dll",
+				"https://github.com/ds5678/Clothing-Pack/releases/download/4.3.0/Clothing-Pack.modcomponent"
+			]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
@@ -242,6 +301,7 @@
 		}
 	},{
 		"name": "Coordinates-Grabber",
+		"aliases":[],
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
 		"version": "4.2.1",
@@ -254,6 +314,10 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["KeyboardUtilities","ModSettings"],
+		"updater":{
+			"enable":true,
+			"downloads":[]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
@@ -261,6 +325,7 @@
 		}
 	},{
 		"name": "CraftingHotkey",
+		"aliases":[],
 		"version": "1.1.0",
 		"updated": "2021-04-12",
 		"description": "Add a hotkey for the crafting menu.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
@@ -271,6 +336,10 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModSettings"],
+		"updater":{
+			"enable":true,
+			"downloads":[]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
@@ -278,6 +347,7 @@
 		}
 	},{
 		"name": "CustomWhiteout",
+		"aliases":[],
 		"author": "<a href='https://github.com/MikeyPdog' target='_blank'>MikeyPdog</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
 		"version": "2.0.0",
@@ -290,13 +360,18 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModSettings"],
+		"updater":{
+			"enable":true,
+			"downloads":[]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
 			"notes": ""
 		}
 	},{
-		"name": "DisableCabinFever",
+		"name": "Disable-Cabin-Fever",
+		"aliases":["DisableCabinFever"],
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
 		"version": "4.0.0",
@@ -309,6 +384,10 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": [],
+		"updater":{
+			"enable":true,
+			"downloads":[]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
@@ -316,6 +395,7 @@
 		}
 	},{
 		"name": "Fire-Pack",
+		"aliases":[],
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
 		"version": "2.3.0",
@@ -328,6 +408,13 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModComponent","ModSettings"],
+		"updater":{
+			"enable":true,
+			"downloads":[
+				"https://github.com/ds5678/Fire-Pack/releases/download/2.3.0/Fire-Pack.dll",
+				"https://github.com/ds5678/Fire-Pack/releases/download/2.3.0/Fire-Pack.modcomponent"
+			]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
@@ -335,6 +422,7 @@
 		}
 	},{
 		"name": "Food-Pack",
+		"aliases":[],
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
 		"version": "4.4.0",
@@ -347,6 +435,12 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModComponent","ModSettings"],
+		"updater":{
+			"enable":true,
+			"downloads":[
+				"https://github.com/ds5678/Food-Pack/releases/download/4.4.0/Food-Pack.modcomponent"
+			]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
@@ -354,6 +448,7 @@
 		}
 	},{
 		"name": "ForgeBlueprintsMod",
+		"aliases":[],
 		"version": "1.4.0",
 		"updated": "2021-05-16",
 		"description": "Adds some blueprints for the forge.<br><br><a href='https://github.com/ds5678/ForgeBlueprintsMod' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
@@ -364,6 +459,13 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModComponent","ModSettings"],
+		"updater":{
+			"enable":true,
+			"downloads":[
+				"https://github.com/ds5678/ForgeBlueprintsMod/releases/download/1.4.0/ForgeBlueprintsMod.dll",
+				"https://github.com/ds5678/ForgeBlueprintsMod/releases/download/1.4.0/ForgeBlueprintsMod.modcomponent"
+			]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
@@ -371,6 +473,7 @@
 		}
 	},{
 		"name": "IncreaseSaveSlotLimit",
+		"aliases":[],
 		"author": "<a href='https://github.com/zeobviouslyfakeacc' target='_blank'>zeobviouslyfakeacc</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
 		"version": "1.1",
@@ -383,6 +486,10 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": [],
+		"updater":{
+			"enable":true,
+			"downloads":[]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
@@ -390,6 +497,7 @@
 		}
 	},{
 		"name": "InfinityFires",
+		"aliases":[],
 		"version": "1.0.1",
 		"updated": "2021-05-16",
 		"description": "Right click on a fire to make it last forever.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
@@ -400,6 +508,10 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModComponent","ModSettings"],
+		"updater":{
+			"enable":true,
+			"downloads":[]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
@@ -407,6 +519,7 @@
 		}
 	},{
 		"name": "KeyboardUtilities",
+		"aliases":[],
 		"author": "<a href='https://github.com/sinai-dev' target='_blank'>Sinai</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
 		"version": "1.3.0",
@@ -419,6 +532,10 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": [],
+		"updater":{
+			"enable":true,
+			"downloads":[]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
@@ -426,6 +543,7 @@
 		}
 	},{
 		"name": "LimitlessContainerSpace",
+		"aliases":[],
 		"version": "1.0.0",
 		"updated": "2021-03-15",
 		"description": "Raises the capacity on all containers to 10,000 kilograms.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
@@ -436,6 +554,10 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": [],
+		"updater":{
+			"enable":true,
+			"downloads":[]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
@@ -443,6 +565,7 @@
 		}
 	},{
 		"name": "MapMakerTools",
+		"aliases":[],
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
 		"version": "4.0.0",
@@ -455,6 +578,10 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": [],
+		"updater":{
+			"enable":true,
+			"downloads":[]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
@@ -462,6 +589,7 @@
 		}
 	},{
 		"name": "ModComponent",
+		"aliases":[],
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
 		"version": "4.5.1",
@@ -474,6 +602,10 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModSettings"],
+		"updater":{
+			"enable":true,
+			"downloads":[]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
@@ -481,6 +613,7 @@
 		}
 	},{
 		"name": "MoreWorkbenches",
+		"aliases":[],
 		"version": "1.0.0",
 		"updated": "2021-05-07",
 		"description": "Adds a few more workbenches to the game.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
@@ -491,6 +624,10 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModComponent","ModSettings"],
+		"updater":{
+			"enable":true,
+			"downloads":[]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
@@ -498,6 +635,7 @@
 		}
 	},{
 		"name": "QuickWitted",
+		"aliases":[],
 		"author": "<a href='https://github.com/felipeds' target='_blank'>felipeds</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
 		"version": "2.0.0",
@@ -510,6 +648,10 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModSettings"],
+		"updater":{
+			"enable":true,
+			"downloads":[]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
@@ -517,6 +659,7 @@
 		}
 	},{
 		"name": "RadialMenuUtilities",
+		"aliases":[],
 		"version": "1.0.1",
 		"updated": "2021-04-09",
 		"description": "A utility mod that adds the ability for other mods to create custom radial menus.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
@@ -527,6 +670,10 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["KeyboardUtilities"],
+		"updater":{
+			"enable":true,
+			"downloads":[]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
@@ -534,6 +681,7 @@
 		}
 	},{
 		"name": "RandomizeInterloperRareSpawns",
+		"aliases":[],
 		"version": "1.1.0",
 		"updated": "2021-04-09",
 		"description": "Disables the Interloper loot tables and replaces them with new random spawns. Do not use on existing saves.<br><br><a href='https://github.com/ds5678/RandomizeInterloperRareSpawns' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
@@ -544,6 +692,13 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModComponent","ModSettings"],
+		"updater":{
+			"enable":true,
+			"downloads":[
+				"https://github.com/ds5678/RandomizeInterloperRareSpawns/releases/download/1.1.0/RandomizeInterloperRareSpawns.dll",
+				"https://github.com/ds5678/RandomizeInterloperRareSpawns/releases/download/1.1.0/RandomizeInterloperRareSpawns.modcomponent"
+			]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
@@ -551,6 +706,7 @@
 		}
 	},{
 		"name": "RopeLuck",
+		"aliases":[],
 		"version": "1.0.0",
 		"updated": "2021-03-18",
 		"description": "Ropes cannot be taken or deployed. They mystically appear and disappear at random.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
@@ -561,6 +717,10 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": [],
+		"updater":{
+			"enable":true,
+			"downloads":[]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
@@ -568,6 +728,7 @@
 		}
 	},{
 		"name": "Show-Map-Location",
+		"aliases":[],
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
 		"version": "4.0.0",
@@ -580,6 +741,10 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": [],
+		"updater":{
+			"enable":true,
+			"downloads":[]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
@@ -587,6 +752,7 @@
 		}
 	},{
 		"name": "Silent-Aurora",
+		"aliases":[],
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
 		"version": "3.0.0",
@@ -599,6 +765,10 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": [],
+		"updater":{
+			"enable":true,
+			"downloads":[]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
@@ -606,6 +776,7 @@
 		}
 	},{
 		"name": "SkipIntroRedux",
+		"aliases":[],
 		"author": "<a href='https://github.com/AlexTheRegent' target='_blank'>AlexTheRegent</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
 		"version": "2.1.0",
@@ -618,6 +789,10 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": [],
+		"updater":{
+			"enable":true,
+			"downloads":[]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
@@ -625,6 +800,7 @@
 		}
 	},{
 		"name": "SonicMode",
+		"aliases":[],
 		"version": "1.2.0",
 		"updated": "2021-03-25",
 		"description": "Lets you sprint up to 30 times faster and control other movement characteristics.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
@@ -635,6 +811,10 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModSettings"],
+		"updater":{
+			"enable":true,
+			"downloads":[]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
@@ -642,6 +822,7 @@
 		}
 	},{
 		"name": "TimberwolvesAnywhere",
+		"aliases":[],
 		"version": "1.1.0",
 		"updated": "2021-04-01",
 		"description": "Allows the user to decide what type of wolves will spawn in a region.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
@@ -652,6 +833,10 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModSettings"],
+		"updater":{
+			"enable":true,
+			"downloads":[]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
@@ -659,6 +844,7 @@
 		}
 	},{
 		"name": "TimeAccelerator",
+		"aliases":[],
 		"author": "<a href='https://github.com/AlexTheRegent' target='_blank'>AlexTheRegent</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
 		"version": "2.1.0",
@@ -671,6 +857,10 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModSettings","KeyboardUtilities"],
+		"updater":{
+			"enable":true,
+			"downloads":[]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
@@ -678,6 +868,7 @@
 		}
 	},{
 		"name": "TLD-Bugfixes",
+		"aliases":[],
 		"author": "<a href='https://github.com/zeobviouslyfakeacc' target='_blank'>zeobviouslyfakeacc</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
 		"version": "2.0.0",
@@ -690,6 +881,10 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": [],
+		"updater":{
+			"enable":true,
+			"downloads":[]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
@@ -697,6 +892,7 @@
 		}
 	},{
 		"name": "Toggle-HUD",
+		"aliases":[],
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
 		"version": "3.1.0",
@@ -709,6 +905,10 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": [],
+		"updater":{
+			"enable":true,
+			"downloads":[]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
@@ -716,6 +916,7 @@
 		}
 	},{
 		"name": "WeaponCrosshair",
+		"aliases":[],
 		"author": "<a href='https://github.com/AlexTheRegent' target='_blank'>AlexTheRegent</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
 		"version": "2.0.0",
@@ -728,6 +929,10 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModSettings"],
+		"updater":{
+			"enable":true,
+			"downloads":[]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
@@ -735,6 +940,7 @@
 		}
 	},{
 		"name": "WoodenStatuettes",
+		"aliases":[],
 		"author": "<a href='https://github.com/nbakulev' target='_blank'>nbakulev</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
 		"version": "1.3.1",
@@ -747,6 +953,12 @@
 			"mlversion": "0.2.7"
 		},
 		"dependencies": ["ModComponent","ModSettings"],
+		"updater":{
+			"enable":true,
+			"downloads":[
+				"https://github.com/ds5678/WoodenStatuettes/releases/download/1.3.1/WoodenStatuettes.modcomponent"
+			]
+		},
 		"status": {
 			"working": true,
 			"issues": "",
