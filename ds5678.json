@@ -614,16 +614,16 @@
 	},{
 		"name": "MoreWorkbenches",
 		"aliases":[],
-		"version": "1.0.0",
-		"updated": "2021-05-07",
+		"version": "1.1.0",
+		"updated": "2021-05-22",
 		"description": "Adds a few more workbenches to the game.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/MoreWorkbenches",
-		"downloadURL": "https://github.com/ds5678/MoreWorkbenches/releases/download/1.0.0/MoreWorkbenches.dll",
+		"downloadURL": "https://github.com/ds5678/MoreWorkbenches/releases/download/1.1.0/MoreWorkbenches.dll",
 		"testedon": {
 			"tldversion": "1.94",
 			"mlversion": "0.2.7"
 		},
-		"dependencies": ["ModComponent","ModSettings"],
+		"dependencies": ["ModSettings"],
 		"updater":{
 			"enable":true,
 			"downloads":[]
