@@ -620,7 +620,7 @@
 		"updated": "2021-06-07",
 		"description": "Utility Mod; lets you load external item packs. Delete AssetLoader!<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/ModComponent",
-		"downloadURL": "https://github.com/ds5678/ModComponent/releases/download/4.6.0/ModComponent.dll",
+		"downloadURL": "https://github.com/ds5678/ModComponent/releases/download/4.6.1/ModComponent.dll",
 		"testedon": {
 			"tldversion": "1.94",
 			"mlversion": "0.2.7.4"
