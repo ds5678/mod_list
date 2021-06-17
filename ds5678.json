@@ -370,20 +370,42 @@
 			"notes": ""
 		}
 	},{
-		"name": "DisableCabinFever",
-		"aliases":["Disable-Cabin-Fever"],
+		"name": "Disable-Cabin-Fever",
+		"aliases":["DisableCabinFever"],
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "4.0.0",
-		"updated": "2021-02-25",
+		"version": "4.0.1",
+		"updated": "2021-06-17",
 		"description": "Disables Cabin Fever in all game modes.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/Disable-Cabin-Fever",
-		"downloadURL": "https://github.com/ds5678/Disable-Cabin-Fever/releases/download/4.0.0/Disable-Cabin-Fever.dll",
+		"downloadURL": "https://github.com/ds5678/Disable-Cabin-Fever/releases/download/4.0.1/Disable-Cabin-Fever.dll",
 		"testedon": {
 			"tldversion": "1.94",
-			"mlversion": "0.2.7.4"
+			"mlversion": "0.4.0.0"
 		},
 		"dependencies": [],
+		"updater":{
+			"enable":true,
+			"downloads":[]
+		},
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	},{
+		"name": "ExtremeTempDrop",
+		"aliases":[],
+		"version": "1.0.0",
+		"updated": "2021-06-17",
+		"description": "Alters temperature degradation.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+		"modURL": "https://github.com/ds5678/ExtremeTempDrop",
+		"downloadURL": "https://github.com/ds5678/ExtremeTempDrop/releases/download/1.0.0/ExtremeTempDrop.dll",
+		"testedon": {
+			"tldversion": "1.94",
+			"mlversion": "0.4.0.0"
+		},
+		"dependencies": ["ModSettings"],
 		"updater":{
 			"enable":true,
 			"downloads":[]
@@ -469,7 +491,7 @@
 		"status": {
 			"working": true,
 			"issues": "",
-			"notes": "Conflicts with ArrowMod 1.2"
+			"notes": ""
 		}
 	},{
 		"name": "HouseBasements",
@@ -827,14 +849,14 @@
 		"aliases":[],
 		"author": "<a href='https://github.com/AlexTheRegent' target='_blank'>AlexTheRegent</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "2.1.0",
-		"updated": "2021-05-16",
+		"version": "2.2.0",
+		"updated": "2021-06-17",
 		"description": "Allows the player to skip to the main menu when starting the game.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/SkipIntroRedux",
-		"downloadURL": "https://github.com/ds5678/SkipIntroRedux/releases/download/2.1.0/SkipIntroRedux.dll",
+		"downloadURL": "https://github.com/ds5678/SkipIntroRedux/releases/download/2.2.0/SkipIntroRedux.dll",
 		"testedon": {
 			"tldversion": "1.94",
-			"mlversion": "0.2.7.4"
+			"mlversion": "0.4.0.0"
 		},
 		"dependencies": [],
 		"updater":{
@@ -849,14 +871,14 @@
 	},{
 		"name": "SonicMode",
 		"aliases":[],
-		"version": "1.2.0",
-		"updated": "2021-03-25",
+		"version": "1.3.0",
+		"updated": "2021-06-17",
 		"description": "Lets you sprint up to 30 times faster and control other movement characteristics.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/SonicMode",
-		"downloadURL": "https://github.com/ds5678/SonicMode/releases/download/1.2.0/SonicMode.dll",
+		"downloadURL": "https://github.com/ds5678/SonicMode/releases/download/1.3.0/SonicMode.dll",
 		"testedon": {
 			"tldversion": "1.94",
-			"mlversion": "0.2.7.4"
+			"mlversion": "0.4.0.0"
 		},
 		"dependencies": ["ModSettings"],
 		"updater":{
@@ -871,14 +893,14 @@
 	},{
 		"name": "TimberwolvesAnywhere",
 		"aliases":[],
-		"version": "1.1.0",
-		"updated": "2021-04-01",
+		"version": "1.1.1",
+		"updated": "2021-06-17",
 		"description": "Allows the user to decide what type of wolves will spawn in a region.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/TimberwolvesAnywhere",
-		"downloadURL": "https://github.com/ds5678/TimberwolvesAnywhere/releases/download/1.1.0/TimberwolvesAnywhere.dll",
+		"downloadURL": "https://github.com/ds5678/TimberwolvesAnywhere/releases/download/1.1.1/TimberwolvesAnywhere.dll",
 		"testedon": {
 			"tldversion": "1.94",
-			"mlversion": "0.2.7.4"
+			"mlversion": "0.4.0.0"
 		},
 		"dependencies": ["ModSettings"],
 		"updater":{
@@ -1006,6 +1028,30 @@
 			"downloads":[
 				"https://github.com/ds5678/WoodenStatuettes/releases/download/1.3.1/WoodenStatuettes.modcomponent"
 			]
+		},
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	},{
+		"name": "UnityExplorer",
+		"aliases":[],
+		"author": "<a href='https://github.com/sinai-dev' target='_blank'>Sinai</a>",
+		"authorURL": "",
+		"version": "4.1.5",
+		"updated": "2021-06-14",
+		"description": "An in-game UI for exploring, debugging, and modifying Unity games.",
+		"modURL": "https://github.com/sinai-dev/UnityExplorer",
+		"downloadURL": "https://github.com/sinai-dev/UnityExplorer/releases/download/4.1.5/UnityExplorer.MelonLoader.Il2Cpp.zip",
+		"testedon": {
+			"tldversion": "1.94",
+			"mlversion": "0.4.0.0"
+		},
+		"dependencies": [],
+		"updater":{
+			"enable":true,
+			"downloads":[]
 		},
 		"status": {
 			"working": true,
