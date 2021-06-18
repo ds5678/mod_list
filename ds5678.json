@@ -647,7 +647,7 @@
 			"tldversion": "1.94",
 			"mlversion": "0.4.0.0"
 		},
-		"dependencies": [],
+		"dependencies": ["ModSettings"],
 		"updater":{
 			"enable":true,
 			"downloads":[]
@@ -741,7 +741,7 @@
 			"tldversion": "1.94",
 			"mlversion": "0.4.0.0"
 		},
-		"dependencies": [],
+		"dependencies": ["ModSettings"],
 		"updater":{
 			"enable":true,
 			"downloads":[]
