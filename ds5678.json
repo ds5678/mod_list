@@ -26,6 +26,28 @@
 			"notes": ""
 		}
 	},{
+		"name": "AutoUpdatingPlugin",
+		"aliases":[],
+		"version": "1.0.0",
+		"updated": "2021-06-29",
+		"description": "Plugin. Updates most mods automatically.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+		"modURL": "https://github.com/ds5678/AutoUpdatingPlugin",
+		"downloadURL": "https://github.com/ds5678/AutoUpdatingPlugin/releases/latest/download/AutoUpdatingPlugin.dll",
+		"testedon": {
+			"tldversion": "1.94",
+			"mlversion": "0.4.0.0"
+		},
+		"dependencies": [],
+		"updater":{
+			"enable":true,
+			"downloads":[]
+		},
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	},{
 		"name": "BeachcombingAdjustments",
 		"aliases":[],
 		"version": "1.1",
