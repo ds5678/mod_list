@@ -705,7 +705,7 @@
 		}
 	},{
 		"name": "ModComponent",
-		"aliases":[],
+		"aliases":["AssetLoader","ModComponentMapper","ModComponentAPI"],
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
 		"version": "4.6.1",
