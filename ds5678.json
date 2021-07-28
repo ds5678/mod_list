@@ -1133,11 +1133,11 @@
 		"aliases":[],
 		"author": "<a href='https://github.com/sinai-dev' target='_blank'>Sinai</a>",
 		"authorURL": "",
-		"version": "4.1.11",
-		"updated": "2021-07-19",
+		"version": "4.2.0",
+		"updated": "2021-07-28",
 		"description": "An in-game UI for exploring, debugging, and modifying Unity games.",
 		"modURL": "https://github.com/sinai-dev/UnityExplorer",
-		"downloadURL": "https://github.com/sinai-dev/UnityExplorer/releases/download/4.1.11/UnityExplorer.MelonLoader.Il2Cpp.zip",
+		"downloadURL": "https://github.com/sinai-dev/UnityExplorer/releases/download/4.2.0/UnityExplorer.MelonLoader.Il2Cpp.zip",
 		"testedon": {
 			"tldversion": "1.94",
 			"mlversion": "0.4.0.0"
