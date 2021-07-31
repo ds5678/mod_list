@@ -296,21 +296,21 @@
 	},{
 		"name": "CanneryManufacturing",
 		"aliases":[],
-		"version": "1.3.3",
-		"updated": "2021-05-28",
+		"version": "1.3.4",
+		"updated": "2021-07-30",
 		"description": "Makes Bleak Inlet more useful, especially on Interloper.<br><br><a href='https://github.com/ds5678/CanneryManufacturing' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/CanneryManufacturing",
 		"downloadURL": "https://github.com/ds5678/CanneryManufacturing/releases/latest",
 		"testedon": {
 			"tldversion": "1.94",
-			"mlversion": "0.4.0.0"
+			"mlversion": "0.4.3.0"
 		},
 		"dependencies": ["ModComponent","ModSettings"],
 		"updater":{
 			"enable":true,
 			"downloads":[
-				"https://github.com/ds5678/CanneryManufacturing/releases/download/1.3.3/CanneryManufacturing.dll",
-				"https://github.com/ds5678/CanneryManufacturing/releases/download/1.3.3/CanneryManufacturing.modcomponent"
+				"https://github.com/ds5678/CanneryManufacturing/releases/download/v1.3.4/CanneryManufacturing.dll",
+				"https://github.com/ds5678/CanneryManufacturing/releases/download/v1.3.4/CanneryManufacturing.modcomponent"
 			]
 		},
 		"status": {
