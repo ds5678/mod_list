@@ -2,6 +2,28 @@
 	"author": "ds5678",
 	"authorURL": "https://github.com/ds5678",
 	"mods": [{
+		"name": "AlternativeActionUtilities",
+		"aliases":[],
+		"version": "1.0.0",
+		"updated": "2021-10-09",
+		"description": "Utility mod for custom mouse clicks.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+		"modURL": "https://github.com/ds5678/AlternativeActionUtilities",
+		"downloadURL": "https://github.com/ds5678/AlternativeActionUtilities/releases/download/1.0.0/AlternativeActionUtilities.dll",
+		"testedon": {
+			"tldversion": "1.95",
+			"mlversion": "0.4.3.0"
+		},
+		"dependencies": ["ModSettings"],
+		"updater":{
+			"enable":true,
+			"downloads":[]
+		},
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	},{
 		"name": "ArcheryTargetPractice",
 		"aliases":[],
 		"author": "<a href='https://github.com/MikeyPdog' target='_blank'>MikeyPdog</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
@@ -590,16 +612,16 @@
 	},{
 		"name": "InfinityFires",
 		"aliases":[],
-		"version": "1.1.0",
+		"version": "1.2.0",
 		"updated": "2021-05-28",
 		"description": "Right click on a fire to make it last forever.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/InfinityFires",
-		"downloadURL": "https://github.com/ds5678/InfinityFires/releases/download/1.1.0/InfinityFires.dll",
+		"downloadURL": "https://github.com/ds5678/InfinityFires/releases/download/1.2.0/InfinityFires.dll",
 		"testedon": {
-			"tldversion": "1.94",
+			"tldversion": "1.95",
 			"mlversion": "0.4.3.0"
 		},
-		"dependencies": ["ModComponent","ModSettings"],
+		"dependencies": ["AlternativeActionUtilities","ModSettings"],
 		"updater":{
 			"enable":true,
 			"downloads":[]
