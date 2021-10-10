@@ -129,7 +129,7 @@
 		"modURL": "https://github.com/ds5678/BetterMendingXP",
 		"downloadURL": "https://github.com/ds5678/BetterMendingXP/releases/download/4.0.0/BetterMendingXP.dll",
 		"testedon": {
-			"tldversion": "1.94",
+			"tldversion": "1.95",
 			"mlversion": "0.4.3.0"
 		},
 		"dependencies": ["ModSettings"],
@@ -147,13 +147,13 @@
 		"aliases":[],
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "4.0.0",
-		"updated": "2021-04-09",
+		"version": "4.1.0",
+		"updated": "2021-10-10",
 		"description": "Makes the night sky more realistic.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/Better-Night-Sky",
-		"downloadURL": "https://github.com/ds5678/Better-Night-Sky/releases/download/4.0.0/Better-Night-Sky.dll",
+		"downloadURL": "https://github.com/ds5678/Better-Night-Sky/releases/download/4.1.0/Better-Night-Sky.dll",
 		"testedon": {
-			"tldversion": "1.94",
+			"tldversion": "1.95",
 			"mlversion": "0.4.3.0"
 		},
 		"dependencies": ["ModSettings"],
