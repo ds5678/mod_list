@@ -414,6 +414,28 @@
 			"notes": ""
 		}
 	},{
+		"name": "CustomSaveDataUtilities",
+		"aliases":[],
+		"version": "1.0.0",
+		"updated": "2021-10-10",
+		"description": "Utility mod for custom save data on gear items.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+		"modURL": "https://github.com/ds5678/AlternativeActionUtilities",
+		"downloadURL": "https://github.com/ds5678/CustomSaveDataUtilities/releases/download/1.0.0/CustomSaveDataUtilities.dll",
+		"testedon": {
+			"tldversion": "1.95",
+			"mlversion": "0.4.3.0"
+		},
+		"dependencies": ["ModSettings"],
+		"updater":{
+			"enable":true,
+			"downloads":[]
+		},
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	},{
 		"name": "CustomWhiteout",
 		"aliases":[],
 		"author": "<a href='https://github.com/MikeyPdog' target='_blank'>MikeyPdog</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
