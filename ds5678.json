@@ -584,6 +584,28 @@
 			"notes": ""
 		}
 	},{
+		"name": "GearSpawner",
+		"aliases":[],
+		"version": "1.0.0",
+		"updated": "2021-10-11",
+		"description": "Utility mod for spawning modded items.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+		"modURL": "https://github.com/ds5678/GearSpawner",
+		"downloadURL": "https://github.com/ds5678/GearSpawner/releases/download/1.0.0/GearSpawner.dll",
+		"testedon": {
+			"tldversion": "1.95",
+			"mlversion": "0.4.3.0"
+		},
+		"dependencies": ["ModSettings"],
+		"updater":{
+			"enable":true,
+			"downloads":[]
+		},
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	},{
 		"name": "HouseBasements",
 		"aliases":[],
 		"author": "<a href='https://github.com/ds5678' target='_blank'>The Long Development</a>",
