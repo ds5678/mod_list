@@ -438,11 +438,11 @@
 	},{
 		"name": "CustomSaveDataUtilities",
 		"aliases":[],
-		"version": "1.0.0",
-		"updated": "2021-10-10",
+		"version": "1.0.1",
+		"updated": "2021-10-12",
 		"description": "Utility mod for custom save data on gear items.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/CustomSaveDataUtilities",
-		"downloadURL": "https://github.com/ds5678/CustomSaveDataUtilities/releases/download/1.0.0/CustomSaveDataUtilities.dll",
+		"downloadURL": "https://github.com/ds5678/CustomSaveDataUtilities/releases/download/1.0.1/CustomSaveDataUtilities.dll",
 		"testedon": {
 			"tldversion": "1.95",
 			"mlversion": "0.4.3.0"
