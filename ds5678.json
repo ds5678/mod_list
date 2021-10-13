@@ -2,6 +2,28 @@
 	"author": "ds5678",
 	"authorURL": "https://github.com/ds5678",
 	"mods": [{
+		"name": "AlcoholMod",
+		"aliases":[],
+		"version": "1.0.0",
+		"updated": "2021-10-13",
+		"description": "Utility mod for custom mouse clicks.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+		"modURL": "https://github.com/ds5678/AlcoholMod",
+		"downloadURL": "https://github.com/ds5678/AlcoholMod/releases/download/1.0.0/AlcoholMod.dll",
+		"testedon": {
+			"tldversion": "1.95",
+			"mlversion": "0.4.3.0"
+		},
+		"dependencies": ["ModSettings","ModComponent","LocalizationUtilities","GearSpawner","CraftingRevisions"],
+		"updater":{
+			"enable":true,
+			"downloads":[]
+		},
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	},{
 		"name": "AlternativeActionUtilities",
 		"aliases":[],
 		"version": "1.0.0",
@@ -50,8 +72,8 @@
 	},{
 		"name": "AutoUpdatingPlugin",
 		"aliases":[],
-		"version": "1.0.0",
-		"updated": "2021-06-29",
+		"version": "1.1.0",
+		"updated": "2021-10-13",
 		"description": "Plugin. Updates most mods automatically.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/AutoUpdatingPlugin",
 		"downloadURL": "https://github.com/ds5678/AutoUpdatingPlugin/releases/latest/download/AutoUpdatingPlugin.dll",
