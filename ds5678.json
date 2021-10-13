@@ -416,11 +416,11 @@
 	},{
 		"name": "CraftingRevisions",
 		"aliases":[],
-		"version": "1.0.0",
+		"version": "1.0.1",
 		"updated": "2021-10-12",
 		"description": "Improves the Crafting UI and enables custom blueprint creation.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/CraftingRevisions",
-		"downloadURL": "https://github.com/ds5678/CraftingRevisions/releases/download/1.0.0/CraftingRevisions.dll",
+		"downloadURL": "https://github.com/ds5678/CraftingRevisions/releases/download/1.0.1/CraftingRevisions.dll",
 		"testedon": {
 			"tldversion": "1.95",
 			"mlversion": "0.4.3.0"
