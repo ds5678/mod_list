@@ -818,16 +818,16 @@
 		"aliases":["AssetLoader","ModComponentMapper","ModComponentAPI"],
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "4.6.1",
-		"updated": "2021-06-07",
-		"description": "Utility Mod; lets you load external item packs. Delete AssetLoader!<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+		"version": "5.0.0",
+		"updated": "2021-10-13",
+		"description": "Utility Mod; lets you load external item packs.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/ModComponent",
-		"downloadURL": "https://github.com/ds5678/ModComponent/releases/download/4.6.1/ModComponent.dll",
+		"downloadURL": "https://github.com/ds5678/ModComponent/releases/download/5.0.0/ModComponent.dll",
 		"testedon": {
-			"tldversion": "1.94",
+			"tldversion": "1.95",
 			"mlversion": "0.4.3.0"
 		},
-		"dependencies": ["ModSettings"],
+		"dependencies": ["ModSettings","LocalizationUtilities","GearSpawner","CraftingRevisions"],
 		"updater":{
 			"enable":true,
 			"downloads":[]
