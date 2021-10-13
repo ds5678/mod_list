@@ -581,20 +581,20 @@
 		"aliases":[],
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "4.4.0",
-		"updated": "2021-05-09",
+		"version": "4.5.0",
+		"updated": "2021-10-13",
 		"description": "Introduces 33 new food items.<br><br><a href='https://github.com/ds5678/Food-Pack' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/Food-Pack",
 		"downloadURL": "https://github.com/ds5678/Food-Pack/releases/latest",
 		"testedon": {
-			"tldversion": "1.94",
+			"tldversion": "1.95",
 			"mlversion": "0.4.3.0"
 		},
-		"dependencies": ["ModComponent","ModSettings"],
+		"dependencies": ["ModComponent","ModSettings","LocalizationUtilities","GearSpawner","CraftingRevisions"],
 		"updater":{
 			"enable":true,
 			"downloads":[
-				"https://github.com/ds5678/Food-Pack/releases/download/4.4.0/Food-Pack.modcomponent"
+				"https://github.com/ds5678/Food-Pack/releases/download/4.5.0/Food-Pack.modcomponent"
 			]
 		},
 		"status": {
@@ -605,21 +605,21 @@
 	},{
 		"name": "ForgeBlueprintsMod",
 		"aliases":["ForgeBlueprints"],
-		"version": "1.4.0",
-		"updated": "2021-05-16",
+		"version": "1.5.0",
+		"updated": "2021-10-13",
 		"description": "Adds some blueprints for the forge.<br><br><a href='https://github.com/ds5678/ForgeBlueprintsMod' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/ForgeBlueprintsMod",
 		"downloadURL": "https://github.com/ds5678/ForgeBlueprintsMod/releases/latest",
 		"testedon": {
-			"tldversion": "1.94",
+			"tldversion": "1.95",
 			"mlversion": "0.4.3.0"
 		},
-		"dependencies": ["ModComponent","ModSettings"],
+		"dependencies": ["ModComponent","ModSettings","LocalizationUtilities","GearSpawner","CraftingRevisions"],
 		"updater":{
 			"enable":true,
 			"downloads":[
-				"https://github.com/ds5678/ForgeBlueprintsMod/releases/download/1.4.0/ForgeBlueprintsMod.dll",
-				"https://github.com/ds5678/ForgeBlueprintsMod/releases/download/1.4.0/ForgeBlueprintsMod.modcomponent"
+				"https://github.com/ds5678/ForgeBlueprintsMod/releases/download/1.5.0/ForgeBlueprintsMod.dll",
+				"https://github.com/ds5678/ForgeBlueprintsMod/releases/download/1.5.0/ForgeBlueprintsMod.modcomponent"
 			]
 		},
 		"status": {
@@ -1215,20 +1215,20 @@
 		"aliases":[],
 		"author": "<a href='https://github.com/nbakulev' target='_blank'>nbakulev</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
-		"version": "1.3.1",
-		"updated": "2021-04-09",
+		"version": "1.4.0",
+		"updated": "2021-10-13",
 		"description": "A cozy mod for The Long Dark.<br><br><a href='https://github.com/ds5678/Woodenstatuettes' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/Woodenstatuettes",
 		"downloadURL": "https://github.com/ds5678/Woodenstatuettes/releases/latest",
 		"testedon": {
-			"tldversion": "1.94",
+			"tldversion": "1.95",
 			"mlversion": "0.4.3.0"
 		},
-		"dependencies": ["ModComponent","ModSettings"],
+		"dependencies": ["ModComponent","ModSettings","LocalizationUtilities","GearSpawner","CraftingRevisions"],
 		"updater":{
 			"enable":true,
 			"downloads":[
-				"https://github.com/ds5678/WoodenStatuettes/releases/download/1.3.1/WoodenStatuettes.modcomponent"
+				"https://github.com/ds5678/WoodenStatuettes/releases/download/1.4.0/WoodenStatuettes.modcomponent"
 			]
 		},
 		"status": {
