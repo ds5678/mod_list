@@ -6,7 +6,7 @@
 		"aliases":[],
 		"version": "1.0.0",
 		"updated": "2021-10-13",
-		"description": "Utility mod for custom mouse clicks.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+		"description": "An optional addon for ModComponent enabling the alcohol mechanics. Without this, all alcoholic food functions as if it were non-alcoholic.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/AlcoholMod",
 		"downloadURL": "https://github.com/ds5678/AlcoholMod/releases/download/1.0.0/AlcoholMod.dll",
 		"testedon": {
