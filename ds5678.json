@@ -3,6 +3,7 @@
 	"authorURL": "https://github.com/ds5678",
 	"mods": [{
 		"name": "AlcoholMod",
+		"displayName": "Alcohol Mod",
 		"aliases":[],
 		"version": "1.0.0",
 		"updated": "2021-10-13",
@@ -25,6 +26,7 @@
 		}
 	},{
 		"name": "AlternativeActionUtilities",
+		"displayName": "Alternative Action Utilities",
 		"aliases":[],
 		"version": "1.0.0",
 		"updated": "2021-10-09",
@@ -47,6 +49,7 @@
 		}
 	},{
 		"name": "ArcheryTargetPractice",
+		"displayName": "Archery Target Practice",
 		"aliases":[],
 		"author": "<a href='https://github.com/MikeyPdog' target='_blank'>MikeyPdog</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -71,9 +74,10 @@
 		}
 	},{
 		"name": "AutoUpdatingPlugin",
+		"displayName": "Auto-Updating Plugin",
 		"aliases":[],
-		"version": "1.1.0",
-		"updated": "2021-10-13",
+		"version": "1.2.0",
+		"updated": "2021-10-17",
 		"description": "Plugin. Updates most mods automatically.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/AutoUpdatingPlugin",
 		"downloadURL": "https://github.com/ds5678/AutoUpdatingPlugin/releases/latest/download/AutoUpdatingPlugin.dll",
@@ -93,6 +97,7 @@
 		}
 	},{
 		"name": "BeachcombingAdjustments",
+		"displayName": "Beachcombing Adjustments",
 		"aliases":[],
 		"version": "1.1",
 		"updated": "2021-01-20",
@@ -115,6 +120,7 @@
 		}
 	},{
 		"name": "Better-Fuel-Management",
+		"displayName": "Better Fuel Management",
 		"aliases":["BetterFuelManagement"],
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -142,6 +148,7 @@
 		}
 	},{
 		"name": "BetterMendingXP",
+		"displayName": "Better Mending Experience",
 		"aliases":[],
 		"author": "<a href='https://github.com/MikeyPdog' target='_blank'>MikeyPdog</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -166,6 +173,7 @@
 		}
 	},{
 		"name": "Better-Night-Sky",
+		"displayName": "Better Night Sky",
 		"aliases":[],
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -190,6 +198,7 @@
 		}
 	},{
 		"name": "Better-Stacking",
+		"displayName": "Better Stacking",
 		"aliases":["BetterStacking"],
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -214,6 +223,7 @@
 		}
 	},{
 		"name": "Better-Water-Management",
+		"displayName": "Better Water Management",
 		"aliases":["BetterWaterManagement"],
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -268,6 +278,7 @@
 		}
 	},{
 		"name": "BlanketMod",
+		"displayName": "Blanket Mod",
 		"aliases":[],
 		"version": "1.2.0",
 		"updated": "2021-05-16",
@@ -293,6 +304,7 @@
 		}
 	},{
 		"name": "BleakBridge",
+		"displayName": "Bleak Bridge",
 		"aliases":[],
 		"version": "1.2.0",
 		"updated": "2021-04-16",
@@ -315,6 +327,7 @@
 		}
 	},{
 		"name": "Bleeding_RV",
+		"displayName": "Bleeding Revamped",
 		"aliases":[],
 		"author": "<a href='https://github.com/Deus13' target='_blank'>Deus</a>",
 		"authorURL": "",
@@ -339,6 +352,7 @@
 		}
 	},{
 		"name": "CanneryManufacturing",
+		"displayName": "Cannery Manufacturing",
 		"aliases":[],
 		"version": "1.3.5",
 		"updated": "2021-08-30",
@@ -364,6 +378,7 @@
 		}
 	},{
 		"name": "Clothing-Pack",
+		"displayName": "Clothing Pack",
 		"aliases":[],
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -391,6 +406,7 @@
 		}
 	},{
 		"name": "Coordinates-Grabber",
+		"displayName": "Coordinates Grabber",
 		"aliases":[],
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -415,6 +431,7 @@
 		}
 	},{
 		"name": "CraftingHotkey",
+		"displayName": "Crafting Hotkey",
 		"aliases":[],
 		"version": "1.1.0",
 		"updated": "2021-04-12",
@@ -437,6 +454,7 @@
 		}
 	},{
 		"name": "CraftingRevisions",
+		"displayName": "Crafting Revisions",
 		"aliases":[],
 		"version": "1.0.1",
 		"updated": "2021-10-12",
@@ -459,6 +477,7 @@
 		}
 	},{
 		"name": "CustomSaveDataUtilities",
+		"displayName": "Custom Save Data Utilities",
 		"aliases":[],
 		"version": "1.0.1",
 		"updated": "2021-10-12",
@@ -481,6 +500,7 @@
 		}
 	},{
 		"name": "CustomWhiteout",
+		"displayName": "Custom Whiteout",
 		"aliases":[],
 		"author": "<a href='https://github.com/MikeyPdog' target='_blank'>MikeyPdog</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -505,6 +525,7 @@
 		}
 	},{
 		"name": "Disable-Cabin-Fever",
+		"displayName": "Disable Cabin Fever",
 		"aliases":["DisableCabinFever"],
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -529,6 +550,7 @@
 		}
 	},{
 		"name": "ExtremeTempDrop",
+		"displayName": "Extreme Temperature Drop",
 		"aliases":[],
 		"version": "1.0.0",
 		"updated": "2021-06-17",
@@ -551,6 +573,7 @@
 		}
 	},{
 		"name": "Fire-Pack",
+		"displayName": "Fire Pack",
 		"aliases":[],
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -578,6 +601,7 @@
 		}
 	},{
 		"name": "Food-Pack",
+		"displayName": "Food Pack",
 		"aliases":[],
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -604,6 +628,7 @@
 		}
 	},{
 		"name": "ForgeBlueprintsMod",
+		"displayName": "Forge Blueprints Mod",
 		"aliases":["ForgeBlueprints"],
 		"version": "1.5.0",
 		"updated": "2021-10-13",
@@ -629,6 +654,7 @@
 		}
 	},{
 		"name": "GearSpawner",
+		"displayName": "Gear Spawner",
 		"aliases":[],
 		"version": "1.0.1",
 		"updated": "2021-10-12",
@@ -651,6 +677,7 @@
 		}
 	},{
 		"name": "HouseBasements",
+		"displayName": "House Basements",
 		"aliases":[],
 		"author": "<a href='https://github.com/ds5678' target='_blank'>The Long Development</a>",
 		"authorURL": "",
@@ -675,6 +702,7 @@
 		}
 	},{
 		"name": "IncreaseSaveSlotLimit",
+		"displayName": "Increase Save Slot Limit",
 		"aliases":[],
 		"author": "<a href='https://github.com/zeobviouslyfakeacc' target='_blank'>zeobviouslyfakeacc</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -699,6 +727,7 @@
 		}
 	},{
 		"name": "InfinityFires",
+		"displayName": "Infinity Fires",
 		"aliases":[],
 		"version": "1.2.0",
 		"updated": "2021-05-28",
@@ -721,6 +750,7 @@
 		}
 	},{
 		"name": "KeyboardUtilities",
+		"displayName": "Keyboard Utilities",
 		"aliases":[],
 		"author": "<a href='https://github.com/sinai-dev' target='_blank'>Sinai</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -745,6 +775,7 @@
 		}
 	},{
 		"name": "LimitlessContainerSpace",
+		"displayName": "Limitless Container Space",
 		"aliases":[],
 		"version": "1.0.0",
 		"updated": "2021-03-15",
@@ -767,6 +798,7 @@
 		}
 	},{
 		"name": "LocalizationUtilities",
+		"displayName": "Localization Utilities",
 		"aliases":[],
 		"version": "1.0.0",
 		"updated": "2021-10-10",
@@ -789,6 +821,7 @@
 		}
 	},{
 		"name": "MaintainYourself",
+		"displayName": "Maintain Yourself",
 		"aliases":[],
 		"author": "<a href='https://github.com/Deus13' target='_blank'>Deus</a>",
 		"authorURL": "",
@@ -813,6 +846,7 @@
 		}
 	},{
 		"name": "MapMakerTools",
+		"displayName": "Map Maker Tools",
 		"aliases":[],
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -861,6 +895,7 @@
 		}
 	},{
 		"name": "MoreWorkbenches",
+		"displayName": "More Workbenches",
 		"aliases":[],
 		"version": "1.1.0",
 		"updated": "2021-05-22",
@@ -883,6 +918,7 @@
 		}
 	},{
 		"name": "Non-OP-Torches",
+		"displayName": "Non-OP Torches",
 		"aliases":[],
 		"author": "<a href='https://github.com/Deus13' target='_blank'>Deus</a>",
 		"authorURL": "",
@@ -907,6 +943,7 @@
 		}
 	},{
 		"name": "QuickWitted",
+		"displayName": "Quick Witted",
 		"aliases":[],
 		"author": "<a href='https://github.com/felipeds' target='_blank'>felipeds</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -931,6 +968,7 @@
 		}
 	},{
 		"name": "RadialMenuUtilities",
+		"displayName": "Radial Menu Utilities",
 		"aliases":[],
 		"version": "1.0.1",
 		"updated": "2021-04-09",
@@ -953,6 +991,7 @@
 		}
 	},{
 		"name": "RandomizeInterloperRareSpawns",
+		"displayName": "Randomize Interloper Rare Spawns",
 		"aliases":[],
 		"version": "1.1.0",
 		"updated": "2021-04-09",
@@ -978,6 +1017,7 @@
 		}
 	},{
 		"name": "ReadWhenHungry",
+		"displayName": "Read When Hungry",
 		"aliases":[],
 		"author": "<a href='https://github.com/MikeyPdog' target='_blank'>MikeyPdog</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -1002,6 +1042,7 @@
 		}
 	},{
 		"name": "RopeLuck",
+		"displayName": "Rope Luck",
 		"aliases":[],
 		"version": "1.0.0",
 		"updated": "2021-03-18",
@@ -1024,6 +1065,7 @@
 		}
 	},{
 		"name": "Show-Map-Location",
+		"displayName": "Show Map Location",
 		"aliases":[],
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -1048,6 +1090,7 @@
 		}
 	},{
 		"name": "Silent-Aurora",
+		"displayName": "Silent Aurora",
 		"aliases":[],
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -1072,6 +1115,7 @@
 		}
 	},{
 		"name": "SkipIntroRedux",
+		"displayName": "Skip Intro",
 		"aliases":[],
 		"author": "<a href='https://github.com/AlexTheRegent' target='_blank'>AlexTheRegent</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -1096,6 +1140,7 @@
 		}
 	},{
 		"name": "SonicMode",
+		"displayName": "Sonic Mod",
 		"aliases":[],
 		"version": "1.3.0",
 		"updated": "2021-06-17",
@@ -1118,6 +1163,7 @@
 		}
 	},{
 		"name": "TimberwolvesAnywhere",
+		"displayName": "Timberwolves Anywhere",
 		"aliases":[],
 		"version": "1.1.1",
 		"updated": "2021-06-17",
@@ -1140,6 +1186,7 @@
 		}
 	},{
 		"name": "TimeAccelerator",
+		"displayName": "Time Accelerator",
 		"aliases":[],
 		"author": "<a href='https://github.com/AlexTheRegent' target='_blank'>AlexTheRegent</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -1164,6 +1211,7 @@
 		}
 	},{
 		"name": "Toggle-HUD",
+		"displayName": "Toggle HUD",
 		"aliases":[],
 		"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -1188,6 +1236,7 @@
 		}
 	},{
 		"name": "WeaponCrosshair",
+		"displayName": "Weapon Crosshair",
 		"aliases":[],
 		"author": "<a href='https://github.com/AlexTheRegent' target='_blank'>AlexTheRegent</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -1212,6 +1261,7 @@
 		}
 	},{
 		"name": "WoodenStatuettes",
+		"displayName": "Wooden Statuettes",
 		"aliases":[],
 		"author": "<a href='https://github.com/nbakulev' target='_blank'>nbakulev</a> and <a href='https://github.com/ds5678' target='_blank'>ds5678</a>",
 		"authorURL": "",
@@ -1238,6 +1288,7 @@
 		}
 	},{
 		"name": "UnityExplorer",
+		"displayName": "Unity Explorer",
 		"aliases":[],
 		"author": "<a href='https://github.com/sinai-dev' target='_blank'>Sinai</a>",
 		"authorURL": "",
