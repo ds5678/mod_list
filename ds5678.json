@@ -425,13 +425,13 @@
 		"name": "CraftingHotkey",
 		"displayName": "Crafting Hotkey",
 		"aliases":[],
-		"version": "1.1.0",
-		"updated": "2021-04-12",
+		"version": "1.2.0",
+		"updated": "2021-10-21",
 		"description": "Add a hotkey for the crafting menu.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/CraftingHotkey",
-		"downloadURL": "https://github.com/ds5678/CraftingHotkey/releases/download/1.1.0/CraftingHotkey.dll",
+		"downloadURL": "https://github.com/ds5678/CraftingHotkey/releases/download/1.2.0/CraftingHotkey.dll",
 		"testedon": {
-			"tldversion": "1.94",
+			"tldversion": "1.95",
 			"mlversion": "0.4.3.0"
 		},
 		"dependencies": ["ModSettings"],
