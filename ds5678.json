@@ -566,21 +566,21 @@
 		"displayName": "Fire Pack",
 		"aliases":[],
 		"previousAuthors": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
-		"version": "2.3.0",
-		"updated": "2021-05-07",
+		"version": "2.5.0",
+		"updated": "2021-10-21",
 		"description": "Introduces a bowdrill and an ember box for carrying hot embers.<br><br><a href='https://github.com/ds5678/Fire-Pack' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/Fire-Pack",
 		"downloadURL": "https://github.com/ds5678/Fire-Pack/releases/latest",
 		"testedon": {
-			"tldversion": "1.94",
+			"tldversion": "1.95",
 			"mlversion": "0.4.3.0"
 		},
-		"dependencies": ["ModComponent","ModSettings"],
+		"dependencies": ["ModComponent","ModSettings","LocalizationUtilities","GearSpawner","CraftingRevisions"],
 		"updater":{
 			"enable":true,
 			"downloads":[
-				"https://github.com/ds5678/Fire-Pack/releases/download/2.3.0/Fire-Pack.dll",
-				"https://github.com/ds5678/Fire-Pack/releases/download/2.3.0/Fire-Pack.modcomponent"
+				"https://github.com/ds5678/Fire-Pack/releases/download/2.5.0/Fire-Pack.dll",
+				"https://github.com/ds5678/Fire-Pack/releases/download/2.5.0/Fire-Pack.modcomponent"
 			]
 		},
 		"status": {
