@@ -231,7 +231,7 @@
 			"tldversion": "1.95",
 			"mlversion": "0.4.3.0"
 		},
-		"dependencies": ["ModComponent","ModSettings","LocalizationUtilities","GearSpawner","CraftingRevisions"],
+		"dependencies": ["ModComponent","ModSettings","LocalizationUtilities","GearSpawner","CraftingRevisions","CustomSaveDataUtilities"],
 		"updater":{
 			"enable":true,
 			"downloads":[
@@ -402,11 +402,11 @@
 		"displayName": "Coordinates Grabber",
 		"aliases":[],
 		"previousAuthors": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
-		"version": "4.2.1",
-		"updated": "2021-05-13",
+		"version": "4.3.0",
+		"updated": "2021-10-21",
 		"description": "Utility mod. Allows you to see/copy the name, position, rotation, and scene of interactive items.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/Coordinates-Grabber",
-		"downloadURL": "https://github.com/ds5678/Coordinates-Grabber/releases/download/4.2.1/Coordinates-Grabber.dll",
+		"downloadURL": "https://github.com/ds5678/Coordinates-Grabber/releases/download/4.3.0/Coordinates-Grabber.dll",
 		"testedon": {
 			"tldversion": "1.95",
 			"mlversion": "0.4.3.0"
