@@ -856,11 +856,11 @@
 		"name": "ModComponent",
 		"aliases":["AssetLoader","ModComponentMapper","ModComponentAPI"],
 		"previousAuthors": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
-		"version": "5.1.0",
+		"version": "5.1.1",
 		"updated": "2021-11-10",
 		"description": "Utility Mod; lets you load external item packs.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/ModComponent",
-		"downloadURL": "https://github.com/ds5678/ModComponent/releases/download/5.1.0/ModComponent.dll",
+		"downloadURL": "https://github.com/ds5678/ModComponent/releases/download/5.1.1/ModComponent.dll",
 		"testedon": {
 			"tldversion": "1.97",
 			"mlversion": "0.4.3.0"
