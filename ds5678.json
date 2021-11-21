@@ -248,21 +248,21 @@
 		"name": "Binoculars",
 		"aliases":[],
 		"previousAuthors": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
-		"version": "4.3.0",
-		"updated": "2021-05-16",
+		"version": "4.4.0",
+		"updated": "2021-11-21",
 		"description": "Lets you see farther.<br><br><a href='https://github.com/ds5678/Binoculars' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/Binoculars",
 		"downloadURL": "https://github.com/ds5678/Binoculars/releases/latest",
 		"testedon": {
-			"tldversion": "1.94",
+			"tldversion": "1.97",
 			"mlversion": "0.4.3.0"
 		},
-		"dependencies": ["ModComponent","ModSettings"],
+		"dependencies": ["ModComponent","ModSettings","LocalizationUtilities","GearSpawner","CraftingRevisions"],
 		"updater":{
 			"enable":true,
 			"downloads":[
-				"https://github.com/ds5678/Binoculars/releases/download/4.3.0/Binoculars.dll",
-				"https://github.com/ds5678/Binoculars/releases/download/4.3.0/Binoculars.modcomponent"
+				"https://github.com/ds5678/Binoculars/releases/download/4.4.0/Binoculars.dll",
+				"https://github.com/ds5678/Binoculars/releases/download/4.4.0/Binoculars.modcomponent"
 			]
 		},
 		"status": {
@@ -274,21 +274,21 @@
 		"name": "BlanketMod",
 		"displayName": "Blanket Mod",
 		"aliases":[],
-		"version": "1.2.0",
-		"updated": "2021-05-16",
+		"version": "1.3.0",
+		"updated": "2021-11-21",
 		"description": "Add a warm blanket to the game. Also adds bedroll crafting.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/BlanketMod",
 		"downloadURL": "https://github.com/ds5678/BlanketMod/releases/latest",
 		"testedon": {
-			"tldversion": "1.94",
+			"tldversion": "1.97",
 			"mlversion": "0.4.3.0"
 		},
-		"dependencies": ["ModComponent","ModSettings"],
+		"dependencies": ["ModComponent","ModSettings","LocalizationUtilities","GearSpawner","CraftingRevisions"],
 		"updater":{
 			"enable":true,
 			"downloads":[
-				"https://github.com/ds5678/BlanketMod/releases/download/1.2.0/BlanketMod.dll",
-				"https://github.com/ds5678/BlanketMod/releases/download/1.2.0/BlanketMod.modcomponent"
+				"https://github.com/ds5678/BlanketMod/releases/download/1.3.0/BlanketMod.dll",
+				"https://github.com/ds5678/BlanketMod/releases/download/1.3.0/BlanketMod.modcomponent"
 			]
 		},
 		"status": {
