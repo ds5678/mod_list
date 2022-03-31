@@ -393,7 +393,7 @@
 			]
 		},
 		"status": {
-			"working": true,
+			"working": false,
 			"issues": "",
 			"notes": ""
 		}
@@ -856,14 +856,14 @@
 		"name": "ModComponent",
 		"aliases":["AssetLoader","ModComponentMapper","ModComponentAPI"],
 		"previousAuthors": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
-		"version": "5.1.3",
-		"updated": "2022-02-02",
+		"version": "5.1.4",
+		"updated": "2022-03-31",
 		"description": "Utility Mod; lets you load external item packs.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/ModComponent",
-		"downloadURL": "https://github.com/ds5678/ModComponent/releases/download/5.1.3/ModComponent.dll",
+		"downloadURL": "https://github.com/ds5678/ModComponent/releases/download/5.1.4/ModComponent.dll",
 		"testedon": {
-			"tldversion": "1.97",
-			"mlversion": "0.5.3.0"
+			"tldversion": "1.99",
+			"mlversion": "0.5.4.0"
 		},
 		"dependencies": ["ModSettings","LocalizationUtilities","GearSpawner","CraftingRevisions"],
 		"updater":{
@@ -1218,14 +1218,14 @@
 		"aliases":[],
 		"author": "<a href='https://github.com/sinai-dev' target='_blank'>Sinai</a>",
 		"authorURL": "",
-		"version": "4.3.5",
-		"updated": "2021-10-26",
+		"version": "4.6.1",
+		"updated": "2022-3-23",
 		"description": "An in-game UI for exploring, debugging, and modifying Unity games.",
 		"modURL": "https://github.com/sinai-dev/UnityExplorer",
-		"downloadURL": "https://github.com/sinai-dev/UnityExplorer/releases/download/4.3.5/UnityExplorer.MelonLoader.Il2Cpp.zip",
+		"downloadURL": "https://github.com/sinai-dev/UnityExplorer/releases/download/4.6.1/UnityExplorer.MelonLoader.Il2Cpp.zip",
 		"testedon": {
 			"tldversion": "1.99",
-			"mlversion": "0.4.3.0"
+			"mlversion": "0.5.4.0"
 		},
 		"dependencies": [],
 		"updater":{
