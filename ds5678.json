@@ -668,7 +668,7 @@
 		"displayName": "House Basements",
 		"aliases":[],
 		"version": "1.2.0",
-		"updated": "2022-07-17",
+		"updated": "2022-07-22",
 		"description": "Adds some more basements to the game.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/HouseBasements",
 		"downloadURL": "https://github.com/ds5678/HouseBasements/releases/download/1.2.0/HouseBasements.dll",
@@ -1095,14 +1095,14 @@
 		"name": "TimberwolvesAnywhere",
 		"displayName": "Timberwolves Anywhere",
 		"aliases":[],
-		"version": "1.1.1",
-		"updated": "2021-06-17",
+		"version": "1.2.0",
+		"updated": "2022-07-22",
 		"description": "Allows the user to decide what type of wolves will spawn in a region.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/TimberwolvesAnywhere",
-		"downloadURL": "https://github.com/ds5678/TimberwolvesAnywhere/releases/download/1.1.1/TimberwolvesAnywhere.dll",
+		"downloadURL": "https://github.com/ds5678/TimberwolvesAnywhere/releases/download/1.2.0/TimberwolvesAnywhere.dll",
 		"testedon": {
-			"tldversion": "1.97",
-			"mlversion": "0.4.3.0"
+			"tldversion": "2.00",
+			"mlversion": "0.5.4.0"
 		},
 		"dependencies": ["ModSettings"],
 		"updater":{
