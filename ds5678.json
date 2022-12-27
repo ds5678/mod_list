@@ -1021,6 +1021,29 @@
 			"notes": ""
 		}
 	},{
+		"name": "SeasonedInterloping",
+		"displayName": "Seasoned Interloping",
+		"aliases":[],
+		"version": "1.0.0",
+		"updated": "2022-12-27",
+		"description": "Adds Forsaken Airfield and Bleak Inlet to the list of Interloper start regions.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+		"modURL": "https://github.com/ds5678/ReadWhenHungry",
+		"downloadURL": "https://github.com/ds5678/ReadWhenHungry/releases/download/4.0.0/ReadWhenHungry.dll",
+		"testedon": {
+			"tldversion": "2.06",
+			"mlversion": "0.6.0.0"
+		},
+		"dependencies": [],
+		"updater":{
+			"enable":true,
+			"downloads":[]
+		},
+		"status": {
+			"working": true,
+			"issues": "",
+			"notes": ""
+		}
+	},{
 		"name": "Silent-Aurora",
 		"displayName": "Silent Aurora",
 		"aliases":[],
