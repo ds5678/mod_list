@@ -1072,14 +1072,14 @@
 		"displayName": "Skip Intro",
 		"aliases":[],
 		"previousAuthors": "<a href='https://github.com/AlexTheRegent' target='_blank'>AlexTheRegent</a>",
-		"version": "2.2.0",
-		"updated": "2021-06-17",
+		"version": "3.0.0",
+		"updated": "2023-01-05",
 		"description": "Allows the player to skip to the main menu when starting the game.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 		"modURL": "https://github.com/ds5678/SkipIntroRedux",
-		"downloadURL": "https://github.com/ds5678/SkipIntroRedux/releases/download/2.2.0/SkipIntroRedux.dll",
+		"downloadURL": "https://github.com/ds5678/SkipIntroRedux/releases/download/3.0.0/SkipIntroRedux.dll",
 		"testedon": {
-			"tldversion": "1.97",
-			"mlversion": "0.4.3.0"
+			"tldversion": "2.06",
+			"mlversion": "0.6.0.0"
 		},
 		"dependencies": [],
 		"updater":{
