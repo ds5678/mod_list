@@ -1146,7 +1146,7 @@
 				"beta": false,
 				"patchnotes": "",
 				"notes": "",
-				"issues": ""
+				"issues": "The scenes required for this mod were removed in 2.03, so this cannot be updated."
 			},
 			"testedon": {
 				"tldversion": "2.00",
@@ -1263,7 +1263,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "1.97",
+				"tldversion": "2.06",
 				"mlversion": "0.4.3.0"
 			},
 			"updater": {
