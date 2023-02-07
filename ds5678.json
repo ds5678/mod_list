@@ -329,14 +329,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "4.1.2",
+			"version": "5.0.0",
 			"name": "Better-Stacking",
 			"displayName": "Better Stacking",
 			"author": "",
 			"previousAuthors": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
 			"released": "",
-			"updated": "2021-07-30",
-			"downloadURL": "https://github.com/ds5678/Better-Stacking/releases/download/4.1.2/Better-Stacking.dll",
+			"updated": "2023-02-06",
+			"downloadURL": "https://github.com/ds5678/Better-Stacking/releases/download/5.0.0/Better-Stacking.dll",
 			"modURL": "https://github.com/ds5678/Better-Stacking",
 			"description": "Makes more items stackable in the inventory.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 			"tags": "",
@@ -355,8 +355,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "1.97",
-				"mlversion": "0.4.3.0"
+				"tldversion": "2.06",
+				"mlversion": "0.6.0.0"
 			},
 			"updater": {
 				"enable": true,
