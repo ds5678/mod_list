@@ -1900,14 +1900,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.1.0",
+			"version": "3.0.0",
 			"name": "TimeAccelerator",
 			"displayName": "Time Accelerator",
 			"author": "",
 			"previousAuthors": "<a href='https://github.com/AlexTheRegent' target='_blank'>AlexTheRegent</a>",
 			"released": "",
-			"updated": "2021-04-12",
-			"downloadURL": "https://github.com/ds5678/TimeAccelerator/releases/download/2.1.0/TimeAccelerator.dll",
+			"updated": "2023-02-28",
+			"downloadURL": "https://github.com/ds5678/TimeAccelerator/releases/download/3.0.0/TimeAccelerator.dll",
 			"modURL": "https://github.com/ds5678/TimeAccelerator",
 			"description": "Allows the player to speed up time without changing the game difficulty.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 			"tags": "",
@@ -1929,8 +1929,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "1.97",
-				"mlversion": "0.4.3.0"
+				"tldversion": "2.06",
+				"mlversion": "0.6.0.0"
 			},
 			"updater": {
 				"enable": true,
