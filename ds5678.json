@@ -1311,14 +1311,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.0",
+			"version": "2.0.0",
 			"name": "LocalizationUtilities",
 			"displayName": "Localization Utilities",
 			"author": "",
 			"previousAuthors": "",
 			"released": "",
-			"updated": "2021-10-10",
-			"downloadURL": "https://github.com/ds5678/LocalizationUtilities/releases/download/1.0.0/LocalizationUtilities.dll",
+			"updated": "2023-03-03",
+			"downloadURL": "https://github.com/ds5678/LocalizationUtilities/releases/download/2.0.0/LocalizationUtilities.dll",
 			"modURL": "https://github.com/ds5678/LocalizationUtilities",
 			"description": "Utility mod for localized text.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 			"tags": "",
@@ -1337,8 +1337,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "1.97",
-				"mlversion": "0.4.3.0"
+				"tldversion": "2.06",
+				"mlversion": "0.6.0.0"
 			},
 			"updater": {
 				"enable": true,
