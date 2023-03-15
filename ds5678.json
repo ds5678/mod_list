@@ -672,14 +672,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "4.3.0",
+			"version": "5.0.0",
 			"name": "Coordinates-Grabber",
 			"displayName": "Coordinates Grabber",
 			"author": "",
 			"previousAuthors": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
 			"released": "",
-			"updated": "2021-10-21",
-			"downloadURL": "https://github.com/ds5678/Coordinates-Grabber/releases/download/4.3.0/Coordinates-Grabber.dll",
+			"updated": "2023-03-15",
+			"downloadURL": "https://github.com/ds5678/Coordinates-Grabber/releases/download/5.0.0/Coordinates-Grabber.dll",
 			"modURL": "https://github.com/ds5678/Coordinates-Grabber",
 			"description": "Utility mod. Allows you to see/copy the name, position, rotation, and scene of interactive items.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 			"tags": "",
@@ -701,8 +701,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "1.97",
-				"mlversion": "0.4.3.0"
+				"tldversion": "2.06",
+				"mlversion": "0.6.0.0"
 			},
 			"updater": {
 				"enable": true,
@@ -751,14 +751,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.1",
+			"version": "2.0.0",
 			"name": "CraftingRevisions",
 			"displayName": "Crafting Revisions",
 			"author": "",
 			"previousAuthors": "",
 			"released": "",
-			"updated": "2021-10-12",
-			"downloadURL": "https://github.com/ds5678/CraftingRevisions/releases/download/1.0.1/CraftingRevisions.dll",
+			"updated": "2023-03-15",
+			"downloadURL": "https://github.com/ds5678/CraftingRevisions/releases/download/2.0.0/CraftingRevisions.dll",
 			"modURL": "https://github.com/ds5678/CraftingRevisions",
 			"description": "Improves the Crafting UI and enables custom blueprint creation.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
 			"tags": "",
@@ -779,8 +779,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "1.97",
-				"mlversion": "0.4.3.0"
+				"tldversion": "2.06",
+				"mlversion": "0.6.0.0"
 			},
 			"updater": {
 				"enable": true,
